@@ -11,7 +11,8 @@ The standalone features were added by https://github.com/lucaslafere/TLI-Tracker
    ```
    pip install -r requirements.txt
    ```
-3. Run the English version of the application:
+3. Enable Logging ingame (Esc -> Other -> Enable Log)
+4. Run the English version of the application:
    ```
    python index.py
    ```
