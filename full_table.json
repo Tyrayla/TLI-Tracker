@@ -1,1207 +1,1849 @@
 {
-  "1001": {
-    "name": "Starry Goose Fire",
-    "type": "Memory Fluorescence",
-    "price": 3125.154
-  },
-  "1009": {
-    "name": "Space Rift",
-    "type": "Magic Cube Material",
-    "price": 2413.533
-  },
-  "1011": {
-    "name": "Residence of Stars",
-    "type": "Memory Fluorescence",
-    "price": 117.333
-  },
-  "1012": {
-    "name": "When Sparks Set the Prairie Ablaze",
-    "type": "Memory Fluorescence",
-    "price": 5037.034
-  },
-  "5011": {
-    "name": "Elixir of Oblivion",
-    "type": "Hard Currency",
-    "price": 0.678
-  },
-  "5028": {
-    "name": "Netherrealm Resonance",
-    "type": "Hard Currency",
-    "price": 0.169
-  },
-  "5029": {
-    "name": "Winding Key",
-    "type": "Hard Currency",
-    "price": 0.35
-  },
-  "5030": {
-    "name": "Twin Reflections",
-    "type": "Special Item",
-    "price": 38421.444
-  },
-  "5031": {
-    "name": "Sprout of Legends",
-    "type": "Special Item",
-    "price": 176.3
-  },
-  "5080": {
-    "name": "Energy Core",
-    "type": "Equipment Material",
-    "price": 0.035
-  },
-  "5140": {
-    "name": "Memory Scrap",
-    "type": "Remembrance Material",
-    "price": 0.021
-  },
-  "5143": {
-    "name": "Memory Thread - Rare",
-    "type": "Remembrance Material",
-    "price": 0.024
-  },
-  "5144": {
-    "name": "Memory Thread - Epic",
-    "type": "Remembrance Material",
-    "price": 1.742
-  },
-  "5201": {
-    "name": "Divinity Fragment",
-    "type": "Magic Cube Material",
-    "price": 0.007
-  },
-  "5202": {
-    "name": "Divinity Pact - Fragment",
-    "type": "Magic Cube Material",
-    "price": 316.8
-  },
-  "5210": {
-    "name": "Divinity Stone",
-    "type": "Cube Material",
-    "price": 0.022
-  },
-  "5220": {
-    "name": "Transcendence Wedge (Magic)",
-    "type": "Cube Material",
-    "price": 0.019
-  },
-  "5230": {
-    "name": "Transcendence Wedge (Rare)",
-    "type": "Cube Material",
-    "price": 0.214
-  },
-  "5240": {
-    "name": "Unifying Wedge",
-    "type": "Cube Material",
-    "price": 71.252
-  },
-  "5250": {
-    "name": "Transcendence Wedge (Legendary)",
-    "type": "Cube Material",
-    "price": 18.071
-  },
-  "5300": {
-    "name": "Pages of Aeterna",
-    "type": "Special Item",
-    "price": 0.005
-  },
-  "5310": {
-    "name": "Aeterna Reverberation - Fleeting",
-    "type": "Game Ticket",
-    "price": 0.029
-  },
-  "5311": {
-    "name": "Aeterna Reverberation - Eternal",
-    "type": "Game Ticket",
-    "price": 0.755
-  },
-  "5401": {
-    "name": "Divinity Pact - God of Might",
-    "type": "Magic Cube Material",
-    "price": 274.5
-  },
-  "5402": {
-    "name": "Divinity Pact - The Brave",
-    "type": "Magic Cube Material",
-    "price": 761.333
-  },
-  "5403": {
-    "name": "Divinity Pact - Onslaughter",
-    "type": "Magic Cube Material",
-    "price": 372.2
-  },
-  "5404": {
-    "name": "Divinity Pact - Warlord",
-    "type": "Magic Cube Material",
-    "price": 292.526
-  },
-  "5405": {
-    "name": "Divinity Pact - Goddess of Hunting",
-    "type": "Magic Cube Material",
-    "price": 292.263
-  },
-  "5406": {
-    "name": "Divinity Pact - Marksman",
-    "type": "Magic Cube Material",
-    "price": 310.762
-  },
-  "5407": {
-    "name": "Divinity Pact - Bladerunner",
-    "type": "Magic Cube Material",
-    "price": 375.25
-  },
-  "5408": {
-    "name": "Divinity Pact - Druid",
-    "type": "Magic Cube Material",
-    "price": 286.577
-  },
-  "5409": {
-    "name": "Divinity Pact - Goddess of Knowledge",
-    "type": "Magic Cube Material",
-    "price": 938.273
-  },
-  "5410": {
-    "name": "Divinity Pact - Magister",
-    "type": "Magic Cube Material",
-    "price": 962.25
-  },
-  "5411": {
-    "name": "Divinity Pact - Arcanist",
-    "type": "Magic Cube Material",
-    "price": 935.615
-  },
-  "5412": {
-    "name": "Divinity Pact - Elementalist",
-    "type": "Magic Cube Material",
-    "price": 369.133
-  },
-  "5413": {
-    "name": "Divinity Pact - God of War",
-    "type": "Magic Cube Material",
-    "price": 281.633
-  },
-  "5414": {
-    "name": "Divinity Pact - Shadowdancer",
-    "type": "Magic Cube Material",
-    "price": 277.4
-  },
-  "5415": {
-    "name": "Divinity Pact - Ronin",
-    "type": "Magic Cube Material",
-    "price": 288.533
-  },
-  "5416": {
-    "name": "Divinity Pact - Ranger",
-    "type": "Magic Cube Material",
-    "price": 371.5
-  },
-  "5417": {
-    "name": "Divinity Pact - Goddess of Deception",
-    "type": "Magic Cube Material",
-    "price": 702.292
-  },
-  "5418": {
-    "name": "Divinity Pact - Shadowmaster",
-    "type": "Magic Cube Material",
-    "price": 354.125
-  },
-  "5419": {
-    "name": "Divinity Pact - Psychic",
-    "type": "Magic Cube Material",
-    "price": 285.885
-  },
-  "5420": {
-    "name": "Divinity Pact - Warlock",
-    "type": "Magic Cube Material",
-    "price": 354.125
-  },
-  "5421": {
-    "name": "Divinity Pact - God of Machines",
-    "type": "Magic Cube Material",
-    "price": 391.154
-  },
-  "5422": {
-    "name": "Divinity Pact - Machinist",
-    "type": "Magic Cube Material",
-    "price": 294.769
-  },
-  "5423": {
-    "name": "Divinity Pact - Steel Vanguard",
-    "type": "Magic Cube Material",
-    "price": 311.667
-  },
-  "5424": {
-    "name": "Divinity Pact - Alchemist",
-    "type": "Magic Cube Material",
-    "price": 364.783
-  },
-  "5425": {
-    "name": "Divinity Pact - Warrior",
-    "type": "Magic Cube Material",
-    "price": 299.643
-  },
-  "5426": {
-    "name": "Divinity Pact - Assassin",
-    "type": "Magic Cube Material",
-    "price": 736.533
-  },
-  "5427": {
-    "name": "Divinity Pact - Prophet",
-    "type": "Magic Cube Material",
-    "price": 285.421
-  },
-  "5428": {
-    "name": "Divinity Pactt - Sentinel",
-    "type": "Magic Cube Material",
-    "price": 309.0
-  },
-  "5429": {
-    "name": "Divinity Pact - Lich",
-    "type": "Magic Cube Materials",
-    "price": 285.421
-  },
-  "5430": {
-    "name": "Divinity Pact - Artisan",
-    "type": "Magic Cube Materials",
-    "price": 270.808
-  },
-  "5700": {
-    "name": "Tower Token - Energy",
-    "type": "Tower Materials",
-    "price": 0.373
-  },
-  "5701": {
-    "name": "Tower Token - Fluorescent",
-    "type": "Tower Materials",
-    "price": 7.703
-  },
-  "5702": {
-    "name": "Tower Token - Affix",
-    "type": "Tower Materials",
-    "price": 77.633
-  },
-  "5703": {
-    "name": "Tower Token - Undetermined Fate",
-    "type": "Tower Materials",
-    "price": 0.964
-  },
-  "5704": {
-    "name": "Tower Token - Corrosion",
-    "type": "Tower Materials",
-    "price": 82.3
-  },
-  "5705": {
-    "name": "Tower Token - Priceless",
-    "type": "Tower Materials",
-    "price": 5247.25
-  },
-  "6002": {
-    "name": "Secret of the Glacial Abyss",
-    "type": "Memory Fluorescence",
-    "price": 0.301
-  },
-  "6003": {
-    "name": "Crow's Wail",
-    "type": "Memory Fluorescence",
-    "price": 3.388
-  },
-  "6004": {
-    "name": "Maud's Trick",
-    "type": "Memory Fluorescence",
-    "price": 0.333
-  },
-  "6006": {
-    "name": "Portent Moon",
-    "type": "Memory Fluorescence",
-    "price": 35.0
-  },
-  "6007": {
-    "name": "Lost Secrets",
-    "type": "Memory Fluorescence",
-    "price": 2.983
-  },
-  "6008": {
-    "name": "A Terrible Price",
-    "type": "Memory Fluorescence",
-    "price": 25.789
-  },
-  "6019": {
-    "name": "Helio Rock",
-    "type": "Memory Fluorescence",
-    "price": 174.7
-  },
-  "6026": {
-    "name": "Antonius's Help",
-    "type": "Memory Fluorescence",
-    "price": 2.002
-  },
-  "6027": {
-    "name": "Aureole Rock",
-    "type": "Memory Fluorescence",
-    "price": 13.816
-  },
-  "6054": {
-    "name": "Clergy's Thinking",
-    "type": "Memory Fluorescence",
-    "price": 150.0
-  },
-  "6111": {
-    "name": "Supernova Explosion",
-    "type": "Memory Fluorescence",
-    "price": 7.388
-  },
-  "6118": {
-    "name": "Echo of the Gods",
-    "type": "Memory Fluorescence",
-    "price": 11.86
-  },
-  "6119": {
-    "name": "Stray Fireflies",
-    "type": "Memory Fluorescence",
-    "price": 385.333
-  },
-  "6125": {
-    "name": "Hundredfold Windfall",
-    "type": "Memory Fluorescence",
-    "price": 11.132
-  },
-  "6127": {
-    "name": "Immolating Flame",
-    "type": "Memory Fluorescence",
-    "price": 154.52
-  },
-  "6135": {
-    "name": "Defile the Stars",
-    "type": "Memory Fluorescence",
-    "price": 17030.667
-  },
-  "6139": {
-    "name": "Divine Supernova",
-    "type": "Memory Fluorescence",
-    "price": 303.6
-  },
-  "6141": {
-    "name": "The Kiss of the Heartless",
-    "type": "Memory Fluorescence",
-    "price": 2.967
-  },
-  "6143": {
-    "name": "Second Divinity",
-    "type": "Memory Fluorescence",
-    "price": 99.833
-  },
-  "6147": {
-    "name": "Gaze Upon the Reflection",
-    "type": "Memory Fluorescence",
-    "price": 3639.133
-  },
-  "6148": {
-    "name": "Unhatched Shadow",
-    "type": "Memory Fluorescence",
-    "price": 297.467
-  },
-  "6153": {
-    "name": "Tomorrow's Direction",
-    "type": "Memory Fluorescence",
-    "price": 6.434
-  },
-  "6205": {
-    "name": "Uncertain Voyage",
-    "type": "Memory Fluorescence",
-    "price": 0.336
-  },
-  "6216": {
-    "name": "Disappearing Shadow",
-    "type": "Memory Fluorescence",
-    "price": 430.633
-  },
-  "6217": {
-    "name": "Unfettered Constellation",
-    "type": "Memory Fluorescence",
-    "price": 2494.333
-  },
-  "6218": {
-    "name": "End of the Past",
-    "type": "Memory Fluorescence",
-    "price": 530.32
-  },
-  "6219": {
-    "name": "Beginning of the Past",
-    "type": "Memory Fluorescence",
-    "price": 30.742
-  },
-  "6220": {
-    "name": "Starry Sky",
-    "type": "Memory Fluorescence",
-    "price": -1.0
-  },
-  "6221": {
-    "name": "Prism's Echo",
-    "type": "Memory Fluorescence",
-    "price": 13.541
-  },
-  "8604": {
-    "name": "Precise - Disciplined",
-    "type": "Special Item",
-    "price": 26.033
-  },
-  "8608": {
-    "name": "Precise - Focus Buff",
-    "type": "Special Item",
-    "price": 32.2
-  },
-  "8611": {
-    "name": "Precise - Superpower",
-    "type": "Special Item",
-    "price": 697.8
-  },
-  "8614": {
-    "name": "Precise - Restrain",
-    "type": "Special Item",
-    "price": 3696.033
-  },
-  "10001": {
-    "name": "Sinful Plunder Compass",
-    "type": "Compass",
-    "price": 28.493
-  },
-  "10002": {
-    "name": "Sinful Plunder Compass (Artifact)",
-    "type": "Compass",
-    "price": 54.633
-  },
-  "10003": {
-    "name": "Transgression Plunder Compass",
-    "type": "Compass",
-    "price": 22.3
-  },
-  "10010": {
-    "name": "Novel Compass",
-    "type": "Compass",
-    "price": 1.648
-  },
-  "10011": {
-    "name": "Lavish Novel Compass",
-    "type": "Compass",
-    "price": 2.855
-  },
-  "10012": {
-    "name": "Conquering Novel Compass",
-    "type": "Compass",
-    "price": 12.117
-  },
-  "10022": {
-    "name": "Soldier Compass",
-    "type": "Compass",
-    "price": 0.242
-  },
-  "10023": {
-    "name": "Strength in Numbers Soldier Compass",
-    "type": "Compass",
-    "price": 1.869
-  },
-  "10032": {
-    "name": "Veteran Compass",
-    "type": "Compass",
-    "price": 0.349
-  },
-  "10033": {
-    "name": "Unrivaled Veteran Compass",
-    "type": "Compass",
-    "price": 5.001
-  },
-  "10042": {
-    "name": "Elite Compass",
-    "type": "Compass",
-    "price": 0.246
-  },
-  "10043": {
-    "name": "Generous Elite Compass",
-    "type": "Compass",
-    "price": 6.371
-  },
-  "10044": {
-    "name": "Bountiful Elite Compass",
-    "type": "Compass",
-    "price": 136.8
-  },
-  "10046": {
-    "name": "Boss Compass",
-    "type": "Compass",
-    "price": 1.644
-  },
-  "10050": {
-    "name": "Beacon Compass",
-    "type": "Compass",
-    "price": 0.979
-  },
-  "10051": {
-    "name": "Progressing Beacon Compass",
-    "type": "Compass",
-    "price": 2.623
-  },
-  "10052": {
-    "name": "Ecliptic Astrolabe",
-    "type": "Compass",
-    "price": 0.283
-  },
-  "10053": {
-    "name": "Vast Ecliptic Astrolabe",
-    "type": "Compass",
-    "price": 5.095
-  },
-  "10054": {
-    "name": "Ascendant Ecliptic Astrolabe",
-    "type": "Compass",
-    "price": 15.682
-  },
-  "10060": {
-    "name": "Renown Edge Compass",
-    "type": "Compass",
-    "price": 9.237
-  },
-  "10071": {
-    "name": "Militant Compass",
-    "type": "Compass",
-    "price": 0.49
-  },
-  "10072": {
-    "name": "Priceless Militant Compass",
-    "type": "Compass",
-    "price": 6.817
-  },
-  "10073": {
-    "name": "Trinket Militant Compass",
-    "type": "Compass",
-    "price": 2.017
-  },
-  "10081": {
-    "name": "Ember Compass",
-    "type": "Compass",
-    "price": 0.2857
-  },
-  "10082": {
-    "name": "Bounty Ember Compass",
-    "type": "Compass",
-    "price": 1.703
-  },
-  "10083": {
-    "name": "Reserve Ember Compass",
-    "type": "Compass",
-    "price": 1.479
-  },
-  "10101": {
-    "name": "Fluorescent Compass",
-    "type": "Compass",
-    "price": 0.446
-  },
-  "10102": {
-    "name": "Colorful Fluorescent Compass",
-    "type": "Compass",
-    "price": 1.218
-  },
-  "10103": {
-    "name": "Focus Fluorescent Compass",
-    "type": "Compass",
-    "price": 3.7
-  },
-  "10110": {
-    "name": "Flourishing Gods Compass",
-    "type": "Compass",
-    "price": 6.557
-  },
-  "10120": {
-    "name": "War Compass",
-    "type": "Compass",
-    "price": 2.8
-  },
-  "10122": {
-    "name": "Valiant War Compass",
-    "type": "Compass",
-    "price": 5.889
-  },
-  "10130": {
-    "name": "Might Compass",
-    "type": "Compass",
-    "price": 0.243
-  },
-  "10131": {
-    "name": "Flourishing Might Compass",
-    "type": "Compass",
-    "price": 0.237
-  },
-  "10133": {
-    "name": "Onslaught Might Compass",
-    "type": "Compass",
-    "price": 1.352
-  },
-  "10134": {
-    "name": "Mecha Might Compass (Artifact)",
-    "type": "Compass",
-    "price": 15.35
-  },
-  "10140": {
-    "name": "Hunting Compass",
-    "type": "Compass",
-    "price": 2.496
-  },
-  "10142": {
-    "name": "General Hunting Compass",
-    "type": "Compass",
-    "price": 4.467
-  },
-  "10150": {
-    "name": "Mechanical Compass",
-    "type": "Compass",
-    "price": 0.236
-  },
-  "10151": {
-    "name": "Brilliant Mechanical Compass",
-    "type": "Compass",
-    "price": 0.457
-  },
-  "10153": {
-    "name": "Divide Mechanical Compass",
-    "type": "Compass",
-    "price": 13.675
-  },
-  "10154": {
-    "name": "Cruising Mechanical Compass (Artifact)",
-    "type": "Compass",
-    "price": 3.5048
-  },
-  "10160": {
-    "name": "Dark Surge Compass",
-    "type": "Compass",
-    "price": 0.225
-  },
-  "10161": {
-    "name": "Bandit Dark Surge Compass",
-    "type": "Compass",
-    "price": 0.401
-  },
-  "10162": {
-    "name": "Divine Warrior Dark Surge Compass",
-    "type": "Compass",
-    "price": 2.3
-  },
-  "10170": {
-    "name": "Blacksail Compass",
-    "type": "Compass",
-    "price": 0.238
-  },
-  "10171": {
-    "name": "Returning Blacksail Compass",
-    "type": "Compass",
-    "price": 0.42
-  },
-  "10180": {
-    "name": "Cube Compass",
-    "type": "Compass",
-    "price": 0.5
-  },
-  "10181": {
-    "name": "Cube Compass: Two Extremes",
-    "type": "Compass",
-    "price": 6.526
-  },
-  "10182": {
-    "name": "Desire Incarnation Cube Compass",
-    "type": "Compass",
-    "price": 25.7796
-  },
-  "10190": {
-    "name": "Aeterna Compass",
-    "type": "Compass",
-    "price": 0.225
-  },
-  "10191": {
-    "name": "Familial Aeterna Compass",
-    "type": "Compass",
-    "price": 0.429
-  },
-  "10200": {
-    "name": "Nightmare Compass",
-    "type": "Compass",
-    "price": 2.0
-  },
-  "10210": {
-    "name": "Folklore Compass",
-    "type": "Compass",
-    "price": 0.449
-  },
-  "10211": {
-    "name": "Uncanny Folklore Compass",
-    "type": "Compass",
-    "price": 1.689
-  },
-  "10220": {
-    "name": "Doll Compass",
-    "type": "Compass",
-    "price": 0.221
-  },
-  "10221": {
-    "name": "Collection Doll Compass",
-    "type": "Compass",
-    "price": 0.994
-  },
-  "10222": {
-    "name": "Collection Clockwork Compass (Artifact)",
-    "type": "Compass",
-    "price": 29.833
-  },
-  "10230": {
-    "name": "Frozen Canvas Compass",
-    "type": "Compass",
-    "price": 0.241
-  },
-  "10231": {
-    "name": "Frozen Canvas Compass: Abundance",
-    "type": "Compass",
-    "price": 0.712
-  },
-  "10240": {
-    "name": "Arcana Compass",
-    "type": "Compass",
-    "price": 0.241
-  },
-  "10241": {
-    "name": "Trump Card Arcana Compass",
-    "type": "Compass",
-    "price": 4.569
-  },
-  "10242": {
-    "name": "The Fated Arcana Compass",
-    "type": "Compass",
-    "price": 95.833
-  },
-  "10250": {
-    "name": "Sandlord Compass",
-    "type": "Compass",
-    "price": 2.286
-  },
-  "10260": {
-    "name": "Outlaw Compass",
-    "type": "Compass",
-    "price": 10.6495
-  },
-  "10261": {
-    "name": "Bounty Outlaw Compass",
-    "type": "Compass",
-    "price": 110.522
-  },
-  "10262": {
-    "name": "Alert Outlaw Compass",
-    "type": "Compass",
-    "price": 156.833
-  },
-  "10270": {
-    "name": "Cage Astrolabe",
-    "type": "Compass",
-    "price": 0.797
-  },
-  "10272": {
-    "name": "Golden Cage Astrolabe",
-    "type": "Compass",
-    "price": 270.0
-  },
-  "12000": {
-    "name": "Flourishing Profound Probe",
-    "type": "Compass",
-    "price": 7.747
-  },
-  "12001": {
-    "name": "Flourishing Deep Space Probe",
-    "type": "Compass",
-    "price": 39.856
-  },
-  "12010": {
-    "name": "Gear Profound Probe",
-    "type": "Compass",
-    "price": 7.806
-  },
-  "12011": {
-    "name": "Gear Deep Space Probe",
-    "type": "Compass",
-    "price": 84.133
-  },
-  "12020": {
-    "name": "Ember Profound Probe",
-    "type": "Compass",
-    "price": 2.885
-  },
-  "12021": {
-    "name": "Ember Deep Space Probe",
-    "type": "Compass",
-    "price": 3.917
-  },
-  "12030": {
-    "name": "Fluorescent Profound Probe",
-    "type": "Compass",
-    "price": 3.369
-  },
-  "12031": {
-    "name": "Fluorescent Deep Space Probe",
-    "type": "Compass",
-    "price": 25.267
-  },
-  "12040": {
-    "name": "Compass Profound Probe",
-    "type": "Compass",
-    "price": 7.596
-  },
-  "12041": {
-    "name": "Compass Deep Space Probe",
-    "type": "Compass",
-    "price": 51.567
-  },
-  "12050": {
-    "name": "Beacon Profound Probe",
-    "type": "Compass",
-    "price": 2.954
-  },
-  "100001": {
-    "name": "Sin's Plundering Compass",
-    "type": "Compass",
-    "price": 18.9919
-  },
-  "100200": {
-    "name": "Flame Sand",
-    "type": "Hard Currency",
-    "price": 0.001
-  },
-  "100300": {
-    "name": "Flame Elementium",
-    "type": "Hard Currency",
-    "price": 1.0
-  },
-  "140004": {
-    "name": "Shallow Dream Talking - Weapon",
-    "type": "Dream Material",
-    "price": 6.7481
-  },
-  "140005": {
-    "name": "Shallow Dream Talking - Armor",
-    "type": "Dream Material",
-    "price": 6.738
-  },
-  "140006": {
-    "name": "Shallow Dream Talking - Trinket",
-    "type": "Dream Material",
-    "price": 21.296
-  },
-  "200003": {
-    "name": "Fine Ember",
-    "type": "Equipment Material",
-    "price": 0.104
-  },
-  "200021": {
-    "name": "Truth Fossil",
-    "type": "Equipment Material",
-    "price": 25.0
-  },
-  "200028": {
-    "name": "Precious Ember",
-    "type": "Equipment Material",
-    "price": 0.028
-  },
-  "200029": {
-    "name": "Matchless Ember",
-    "type": "Equipment Material",
-    "price": 0.064
-  },
-  "200030": {
-    "name": "Ultimate Ember",
-    "type": "Equipment Material",
-    "price": 6.0
-  },
-  "210000": {
-    "name": "Aemberon Core",
-    "type": "Corrosion Material",
-    "price": 0.018
-  },
-  "210001": {
-    "name": "Familiar Nexus",
-    "type": "Corrosion Material",
-    "price": 106.751
-  },
-  "210002": {
-    "name": "Corrupted Axis",
-    "type": "Erosion Material",
-    "price": 25.0
-  },
-  "210003": {
-    "name": "Glorious Axis",
-    "type": "Erosion Material",
-    "price": 1000.0
-  },
-  "300006": {
-    "name": "Sacred Fossil",
-    "type": "Equipment Material",
-    "price": 4.0
-  },
-  "330001": {
-    "name": "Snowpaper Fragment",
-    "type": "Special Item",
-    "price": 0.078
-  },
-  "338002": {
-    "name": "Star Net",
-    "type": "Special Item",
-    "price": 394.2
-  },
-  "339001": {
-    "name": "Inspiration Essence",
-    "type": "Special Item",
-    "price": 0.674
-  },
-  "360403": {
-    "name": "Base Mod",
-    "type": "Tower Material",
-    "price": 0.979
-  },
-  "360404": {
-    "name": "Expansion Mod - Warlock",
-    "type": "Tower Material",
-    "price": 70.3333
-  },
-  "360405": {
-    "name": "Expansion Mod - Vanguard",
-    "type": "Tower Material",
-    "price": 50.689
-  },
-  "360406": {
-    "name": "Expansion Mod - Sniper",
-    "type": "Tower Material",
-    "price": 22.867
-  },
-  "360407": {
-    "name": "Expansion Mod - Tank",
-    "type": "Tower Material",
-    "price": 22.7833
-  },
-  "370101": {
-    "name": "Prism Gauge - Rare",
-    "type": "Overlay Material",
-    "price": 0.031
-  },
-  "370201": {
-    "name": "Prism Gauge - Legendary",
-    "type": "Overlay Material",
-    "price": 0.134
-  },
-  "400006": {
-    "name": "Glacial Abyss Beacon (T7)",
-    "type": "Map Ticket",
-    "price": 0.774
-  },
-  "400007": {
-    "name": "Glacial Abyss Beacon (T8)",
-    "type": "Map Ticket",
-    "price": 3.95
-  },
-  "400008": {
-    "name": "Deep Space Beacon",
-    "type": "Map Ticket",
-    "price": 17.932
-  },
-  "400014": {
-    "name": "Blistering Lava Sea Beacon (T7)",
-    "type": "Map Ticket",
-    "price": 1.152
-  },
-  "400015": {
-    "name": "Blistering Lava Sea Beacon (T8)",
-    "type": "Map Ticket",
-    "price": 2.802
-  },
-  "400021": {
-    "name": "Steel Forge Beacon (T7)",
-    "type": "Map Ticket",
-    "price": 0.657
-  },
-  "400022": {
-    "name": "Steel Forge Beacon (T8)",
-    "type": "Map Ticket",
-    "price": 2.383
-  },
-  "400027": {
-    "name": "Thunder Wastes Beacon (T7)",
-    "type": "Map Ticket",
-    "price": 0.938
-  },
-  "400028": {
-    "name": "Thunder Wastes Beacon (T8)",
-    "type": "Map Ticket",
-    "price": 2.266
-  },
-  "400032": {
-    "name": "Voidlands Beacon (T7)",
-    "type": "Map Ticket",
-    "price": 0.709
-  },
-  "400033": {
-    "name": "Voidlands Beacon (T8)",
-    "type": "Map Ticket",
-    "price": 2.486
-  },
-  "410101": {
-    "name": "Edict: Dart",
-    "type": "Boss Ticket",
-    "price": 11.763
-  },
-  "410102": {
-    "name": "Edict: Dive",
-    "type": "Boss Ticket",
-    "price": 10.515
-  },
-  "410103": {
-    "name": "Edict: Ruin",
-    "type": "BOSS Ticket",
-    "price": 11.462
-  },
-  "410104": {
-    "name": "Edict: Doom",
-    "type": "BOSS Ticket",
-    "price": 33.997
-  },
-  "410201": {
-    "name": "Void Sea Invitation - Craving",
-    "type": "BOSS Ticket",
-    "price": 19.197
-  },
-  "410202": {
-    "name": "Void Sea Invitation - Ecstasy",
-    "type": "BOSS Ticket",
-    "price": 38.626
-  },
-  "410203": {
-    "name": "Void Sea Invitation - Sorrow",
-    "type": "BOSS Ticket",
-    "price": 36.433
-  },
-  "410301": {
-    "name": "Desire Core - Record",
-    "type": "BOSS Ticket",
-    "price": 88.898
-  },
-  "410302": {
-    "name": "Desire Core - Creation",
-    "type": "BOSS Ticket",
-    "price": 172.577
-  },
-  "410303": {
-    "name": "Desire Core - Devastation",
-    "type": "BOSS Ticket",
-    "price": 238.867
-  },
-  "410401": {
-    "name": "Queen's Wick - Imprisoned",
-    "type": "BOSS Ticket",
-    "price": 29.833
-  },
-  "410402": {
-    "name": "Queen's Wick - Pursuit",
-    "type": "BOSS Ticket",
-    "price": 137.5
-  },
-  "410403": {
-    "name": "Queen's Wick - Revenge",
-    "type": "BOSS Ticket",
-    "price": 26619.422
-  },
-  "410501": {
-    "name": "Queen's Grace - Slaughter",
-    "type": "BOSS Ticket",
-    "price": 0.846
-  },
-  "410502": {
-    "name": "Queen's Grace - Authority",
-    "type": "BOSS Ticket",
-    "price": 9.847
-  },
-  "410503": {
-    "name": "Queen's Grace - Lust",
-    "type": "Boss Ticket",
-    "price": 1.873
-  },
-  "430000": {
-    "name": "The Beginning",
-    "type": "Boss Ticket",
-    "price": 2.295
-  },
-  "430001": {
-    "name": "The End",
-    "type": "Boss Ticket",
-    "price": 1.548
-  },
-  "430002": {
-    "name": "Beginning of the End",
-    "type": "Boss Ticket",
-    "price": 12.4899
-  },
-  "440001": {
-    "name": "Divinity Emblem - Machine",
-    "type": "God's Emblem",
-    "price": 3.185
-  },
-  "440002": {
-    "name": "Divinity Emblem - Might",
-    "type": "God's Emblem",
-    "price": 18.068
-  },
-  "440003": {
-    "name": "Divinity Emblem - War",
-    "type": "God's Emblem",
-    "price": 85.167
-  },
-  "440004": {
-    "name": "Divinity Emblem - Hunting",
-    "type": "God's Emblem",
-    "price": 2.427
-  },
-  "990005": {
-    "name": "Mist Essence",
-    "type": "Game Ticket",
-    "price": 79.758
-  },
-  "990007": {
-    "name": "Resident's Eye",
-    "type": "Game Ticket",
-    "price": 0.557
-  },
-  "990091": {
-    "name": "Conquest Insignia",
-    "type": "Game Ticket",
-    "price": 42751.1818
-  },
-  "3000001": {
-    "name": "Proof of the the Brave I",
-    "type": "Game Ticket",
-    "price": 0.039
-  },
-  "3000002": {
-    "name": "Proof of the the Brave II",
-    "type": "Game Ticket",
-    "price": 0.067
-  },
-  "3000003": {
-    "name": "Proof of the Brave III",
-    "type": "Game Ticket",
-    "price": 3.796
-  },
-  "3000004": {
-    "name": "Proof of the Brave IV",
-    "type": "Gameplay Ticket",
-    "price": 28.642
-  },
-  "3000005": {
-    "name": "Proof of the Brave V",
-    "type": "Gameplay Ticket",
-    "price": 26.617
-  },
-  "6055": {
-    "name": "Antonius' Research",
-    "type": "Memory Fluorescence",
-    "price": 90.486
-  }
+    "1001": {
+        "name": "Starry Goose Fire",
+        "type": "Memory Fluorescence",
+        "price": 3125.154
+    },
+    "1009": {
+        "name": "Space Rift",
+        "type": "Magic Cube Material",
+        "price": 2413.533
+    },
+    "1011": {
+        "name": "Residence of Stars",
+        "type": "Memory Fluorescence",
+        "price": 117.333
+    },
+    "1012": {
+        "name": "When Sparks Set the Prairie Ablaze",
+        "type": "Memory Fluorescence",
+        "price": 5037.034
+    },
+    "5011": {
+        "name": "Elixir of Oblivion",
+        "type": "Hard Currency",
+        "price": 0.678
+    },
+    "5028": {
+        "name": "Netherrealm Resonance",
+        "type": "Hard Currency",
+        "price": 0.169
+    },
+    "5029": {
+        "name": "Winding Key",
+        "type": "Hard Currency",
+        "price": 0.2102,
+        "last_time": 1768770593,
+        "from": "FurryHeiLi"
+    },
+    "5030": {
+        "name": "Twin Reflections",
+        "type": "Special Item",
+        "price": 38421.444
+    },
+    "5031": {
+        "name": "Sprout of Legends",
+        "type": "Special Item",
+        "price": 176.3
+    },
+    "5080": {
+        "name": "Energy Core",
+        "type": "Equipment Material",
+        "price": 0.0991,
+        "last_time": 1768770597,
+        "from": "FurryHeiLi"
+    },
+    "5140": {
+        "name": "Memory Scrap",
+        "type": "Remembrance Material",
+        "price": 0.0679,
+        "last_time": 1768770654,
+        "from": "FurryHeiLi"
+    },
+    "5143": {
+        "name": "Memory Thread - Rare",
+        "type": "Remembrance Material",
+        "price": 0.0267,
+        "last_time": 1768770586,
+        "from": "FurryHeiLi"
+    },
+    "5144": {
+        "name": "Memory Thread - Epic",
+        "type": "Remembrance Material",
+        "price": 1.742
+    },
+    "5201": {
+        "name": "Divinity Fragment",
+        "type": "Magic Cube Material",
+        "price": 0.007
+    },
+    "5202": {
+        "name": "Divinity Pact - Fragment",
+        "type": "Magic Cube Material",
+        "price": 316.8
+    },
+    "5210": {
+        "name": "Divinity Stone",
+        "type": "Cube Material",
+        "price": 0.022
+    },
+    "5220": {
+        "name": "Transcendence Wedge (Magic)",
+        "type": "Cube Material",
+        "price": 0.0189,
+        "last_time": 1768770643,
+        "from": "FurryHeiLi"
+    },
+    "5230": {
+        "name": "Transcendence Wedge (Rare)",
+        "type": "Cube Material",
+        "price": 0.214
+    },
+    "5240": {
+        "name": "Unifying Wedge",
+        "type": "Cube Material",
+        "price": 71.252
+    },
+    "5250": {
+        "name": "Transcendence Wedge (Legendary)",
+        "type": "Cube Material",
+        "price": 18.071
+    },
+    "5300": {
+        "name": "Pages of Aeterna",
+        "type": "Special Item",
+        "price": 0.0254,
+        "last_time": 1768770630,
+        "from": "FurryHeiLi"
+    },
+    "5310": {
+        "name": "Aeterna Reverberation - Fleeting",
+        "type": "Game Ticket",
+        "price": 1.0362,
+        "last_time": 1768770627,
+        "from": "FurryHeiLi"
+    },
+    "5311": {
+        "name": "Aeterna Reverberation - Eternal",
+        "type": "Game Ticket",
+        "price": 0.1977,
+        "last_time": 1768770621,
+        "from": "FurryHeiLi"
+    },
+    "5401": {
+        "name": "Divinity Pact - God of Might",
+        "type": "Magic Cube Material",
+        "price": 274.5
+    },
+    "5402": {
+        "name": "Divinity Pact - The Brave",
+        "type": "Magic Cube Material",
+        "price": 761.333
+    },
+    "5403": {
+        "name": "Divinity Pact - Onslaughter",
+        "type": "Magic Cube Material",
+        "price": 372.2
+    },
+    "5404": {
+        "name": "Divinity Pact - Warlord",
+        "type": "Magic Cube Material",
+        "price": 292.526
+    },
+    "5405": {
+        "name": "Divinity Pact - Goddess of Hunting",
+        "type": "Magic Cube Material",
+        "price": 292.263
+    },
+    "5406": {
+        "name": "Divinity Pact - Marksman",
+        "type": "Magic Cube Material",
+        "price": 310.762
+    },
+    "5407": {
+        "name": "Divinity Pact - Bladerunner",
+        "type": "Magic Cube Material",
+        "price": 375.25
+    },
+    "5408": {
+        "name": "Divinity Pact - Druid",
+        "type": "Magic Cube Material",
+        "price": 286.577
+    },
+    "5409": {
+        "name": "Divinity Pact - Goddess of Knowledge",
+        "type": "Magic Cube Material",
+        "price": 938.273
+    },
+    "5410": {
+        "name": "Divinity Pact - Magister",
+        "type": "Magic Cube Material",
+        "price": 962.25
+    },
+    "5411": {
+        "name": "Divinity Pact - Arcanist",
+        "type": "Magic Cube Material",
+        "price": 935.615
+    },
+    "5412": {
+        "name": "Divinity Pact - Elementalist",
+        "type": "Magic Cube Material",
+        "price": 369.133
+    },
+    "5413": {
+        "name": "Divinity Pact - God of War",
+        "type": "Magic Cube Material",
+        "price": 281.633
+    },
+    "5414": {
+        "name": "Divinity Pact - Shadowdancer",
+        "type": "Magic Cube Material",
+        "price": 277.4
+    },
+    "5415": {
+        "name": "Divinity Pact - Ronin",
+        "type": "Magic Cube Material",
+        "price": 288.533
+    },
+    "5416": {
+        "name": "Divinity Pact - Ranger",
+        "type": "Magic Cube Material",
+        "price": 371.5
+    },
+    "5417": {
+        "name": "Divinity Pact - Goddess of Deception",
+        "type": "Magic Cube Material",
+        "price": 702.292
+    },
+    "5418": {
+        "name": "Divinity Pact - Shadowmaster",
+        "type": "Magic Cube Material",
+        "price": 354.125
+    },
+    "5419": {
+        "name": "Divinity Pact - Psychic",
+        "type": "Magic Cube Material",
+        "price": 285.885
+    },
+    "5420": {
+        "name": "Divinity Pact - Warlock",
+        "type": "Magic Cube Material",
+        "price": 354.125
+    },
+    "5421": {
+        "name": "Divinity Pact - God of Machines",
+        "type": "Magic Cube Material",
+        "price": 391.154
+    },
+    "5422": {
+        "name": "Divinity Pact - Machinist",
+        "type": "Magic Cube Material",
+        "price": 294.769
+    },
+    "5423": {
+        "name": "Divinity Pact - Steel Vanguard",
+        "type": "Magic Cube Material",
+        "price": 311.667
+    },
+    "5424": {
+        "name": "Divinity Pact - Alchemist",
+        "type": "Magic Cube Material",
+        "price": 364.783
+    },
+    "5425": {
+        "name": "Divinity Pact - Warrior",
+        "type": "Magic Cube Material",
+        "price": 299.643
+    },
+    "5426": {
+        "name": "Divinity Pact - Assassin",
+        "type": "Magic Cube Material",
+        "price": 736.533
+    },
+    "5427": {
+        "name": "Divinity Pact - Prophet",
+        "type": "Magic Cube Material",
+        "price": 285.421
+    },
+    "5428": {
+        "name": "Divinity Pactt - Sentinel",
+        "type": "Magic Cube Material",
+        "price": 309.0
+    },
+    "5429": {
+        "name": "Divinity Pact - Lich",
+        "type": "Magic Cube Materials",
+        "price": 285.421
+    },
+    "5430": {
+        "name": "Divinity Pact - Artisan",
+        "type": "Magic Cube Materials",
+        "price": 270.808
+    },
+    "5700": {
+        "name": "Tower Token - Energy",
+        "type": "Tower Materials",
+        "price": 0.373
+    },
+    "5701": {
+        "name": "Tower Token - Fluorescent",
+        "type": "Tower Materials",
+        "price": 7.703
+    },
+    "5702": {
+        "name": "Tower Token - Affix",
+        "type": "Tower Materials",
+        "price": 77.633
+    },
+    "5703": {
+        "name": "Tower Token - Undetermined Fate",
+        "type": "Tower Materials",
+        "price": 0.964
+    },
+    "5704": {
+        "name": "Tower Token - Corrosion",
+        "type": "Tower Materials",
+        "price": 82.3
+    },
+    "5705": {
+        "name": "Tower Token - Priceless",
+        "type": "Tower Materials",
+        "price": 5247.25
+    },
+    "6002": {
+        "name": "Secret of the Glacial Abyss",
+        "type": "Memory Fluorescence",
+        "price": 0.301
+    },
+    "6003": {
+        "name": "Crow's Wail",
+        "type": "Memory Fluorescence",
+        "price": 3.388
+    },
+    "6004": {
+        "name": "Maud's Trick",
+        "type": "Memory Fluorescence",
+        "price": 0.333
+    },
+    "6006": {
+        "name": "Portent Moon",
+        "type": "Memory Fluorescence",
+        "price": 35.0
+    },
+    "6007": {
+        "name": "Lost Secrets",
+        "type": "Memory Fluorescence",
+        "price": 2.983
+    },
+    "6008": {
+        "name": "A Terrible Price",
+        "type": "Memory Fluorescence",
+        "price": 25.789
+    },
+    "6019": {
+        "name": "Helio Rock",
+        "type": "Memory Fluorescence",
+        "price": 174.7
+    },
+    "6026": {
+        "name": "Antonius's Help",
+        "type": "Memory Fluorescence",
+        "price": 2.002
+    },
+    "6027": {
+        "name": "Aureole Rock",
+        "type": "Memory Fluorescence",
+        "price": 13.816
+    },
+    "6054": {
+        "name": "Clergy's Thinking",
+        "type": "Memory Fluorescence",
+        "price": 150.0
+    },
+    "6111": {
+        "name": "Supernova Explosion",
+        "type": "Memory Fluorescence",
+        "price": 7.388
+    },
+    "6118": {
+        "name": "Echo of the Gods",
+        "type": "Memory Fluorescence",
+        "price": 11.86
+    },
+    "6119": {
+        "name": "Stray Fireflies",
+        "type": "Memory Fluorescence",
+        "price": 385.333
+    },
+    "6125": {
+        "name": "Hundredfold Windfall",
+        "type": "Memory Fluorescence",
+        "price": 11.132
+    },
+    "6127": {
+        "name": "Immolating Flame",
+        "type": "Memory Fluorescence",
+        "price": 154.52
+    },
+    "6135": {
+        "name": "Defile the Stars",
+        "type": "Memory Fluorescence",
+        "price": 17030.667
+    },
+    "6139": {
+        "name": "Divine Supernova",
+        "type": "Memory Fluorescence",
+        "price": 303.6
+    },
+    "6141": {
+        "name": "The Kiss of the Heartless",
+        "type": "Memory Fluorescence",
+        "price": 2.967
+    },
+    "6143": {
+        "name": "Second Divinity",
+        "type": "Memory Fluorescence",
+        "price": 99.833
+    },
+    "6147": {
+        "name": "Gaze Upon the Reflection",
+        "type": "Memory Fluorescence",
+        "price": 3639.133
+    },
+    "6148": {
+        "name": "Unhatched Shadow",
+        "type": "Memory Fluorescence",
+        "price": 297.467
+    },
+    "6153": {
+        "name": "Tomorrow's Direction",
+        "type": "Memory Fluorescence",
+        "price": 6.434
+    },
+    "6205": {
+        "name": "Uncertain Voyage",
+        "type": "Memory Fluorescence",
+        "price": 0.336
+    },
+    "6216": {
+        "name": "Disappearing Shadow",
+        "type": "Memory Fluorescence",
+        "price": 430.633
+    },
+    "6217": {
+        "name": "Unfettered Constellation",
+        "type": "Memory Fluorescence",
+        "price": 2494.333
+    },
+    "6218": {
+        "name": "End of the Past",
+        "type": "Memory Fluorescence",
+        "price": 530.32
+    },
+    "6219": {
+        "name": "Beginning of the Past",
+        "type": "Memory Fluorescence",
+        "price": 30.742
+    },
+    "6220": {
+        "name": "Starry Sky",
+        "type": "Memory Fluorescence",
+        "price": -1.0
+    },
+    "6221": {
+        "name": "Prism's Echo",
+        "type": "Memory Fluorescence",
+        "price": 13.541
+    },
+    "8604": {
+        "name": "Precise - Disciplined",
+        "type": "Special Item",
+        "price": 26.033
+    },
+    "8608": {
+        "name": "Precise - Focus Buff",
+        "type": "Special Item",
+        "price": 32.2
+    },
+    "8611": {
+        "name": "Precise - Superpower",
+        "type": "Special Item",
+        "price": 697.8
+    },
+    "8614": {
+        "name": "Precise - Restrain",
+        "type": "Special Item",
+        "price": 3696.033
+    },
+    "10001": {
+        "name": "Sinful Plunder Compass",
+        "type": "Compass",
+        "price": 28.493
+    },
+    "10002": {
+        "name": "Sinful Plunder Compass (Artifact)",
+        "type": "Compass",
+        "price": 54.633
+    },
+    "10003": {
+        "name": "Transgression Plunder Compass",
+        "type": "Compass",
+        "price": 22.3
+    },
+    "10010": {
+        "name": "Novel Compass",
+        "type": "Compass",
+        "price": 1.648
+    },
+    "10011": {
+        "name": "Lavish Novel Compass",
+        "type": "Compass",
+        "price": 2.855
+    },
+    "10012": {
+        "name": "Conquering Novel Compass",
+        "type": "Compass",
+        "price": 12.117
+    },
+    "10022": {
+        "name": "Soldier Compass",
+        "type": "Compass",
+        "price": 0.242
+    },
+    "10023": {
+        "name": "Strength in Numbers Soldier Compass",
+        "type": "Compass",
+        "price": 1.869
+    },
+    "10032": {
+        "name": "Veteran Compass",
+        "type": "Compass",
+        "price": 0.349
+    },
+    "10033": {
+        "name": "Unrivaled Veteran Compass",
+        "type": "Compass",
+        "price": 5.001
+    },
+    "10042": {
+        "name": "Elite Compass",
+        "type": "Compass",
+        "price": 0.246
+    },
+    "10043": {
+        "name": "Generous Elite Compass",
+        "type": "Compass",
+        "price": 6.371
+    },
+    "10044": {
+        "name": "Bountiful Elite Compass",
+        "type": "Compass",
+        "price": 136.8
+    },
+    "10046": {
+        "name": "Boss Compass",
+        "type": "Compass",
+        "price": 1.644
+    },
+    "10050": {
+        "name": "Beacon Compass",
+        "type": "Compass",
+        "price": 0.979
+    },
+    "10051": {
+        "name": "Progressing Beacon Compass",
+        "type": "Compass",
+        "price": 2.623
+    },
+    "10052": {
+        "name": "Ecliptic Astrolabe",
+        "type": "Compass",
+        "price": 0.283
+    },
+    "10053": {
+        "name": "Vast Ecliptic Astrolabe",
+        "type": "Compass",
+        "price": 5.095
+    },
+    "10054": {
+        "name": "Ascendant Ecliptic Astrolabe",
+        "type": "Compass",
+        "price": 15.682
+    },
+    "10060": {
+        "name": "Renown Edge Compass",
+        "type": "Compass",
+        "price": 9.237
+    },
+    "10071": {
+        "name": "Militant Compass",
+        "type": "Compass",
+        "price": 0.49
+    },
+    "10072": {
+        "name": "Priceless Militant Compass",
+        "type": "Compass",
+        "price": 6.817
+    },
+    "10073": {
+        "name": "Trinket Militant Compass",
+        "type": "Compass",
+        "price": 2.017
+    },
+    "10081": {
+        "name": "Ember Compass",
+        "type": "Compass",
+        "price": 0.2857
+    },
+    "10082": {
+        "name": "Bounty Ember Compass",
+        "type": "Compass",
+        "price": 1.703
+    },
+    "10083": {
+        "name": "Reserve Ember Compass",
+        "type": "Compass",
+        "price": 1.479
+    },
+    "10101": {
+        "name": "Fluorescent Compass",
+        "type": "Compass",
+        "price": 0.446
+    },
+    "10102": {
+        "name": "Colorful Fluorescent Compass",
+        "type": "Compass",
+        "price": 1.218
+    },
+    "10103": {
+        "name": "Focus Fluorescent Compass",
+        "type": "Compass",
+        "price": 3.7
+    },
+    "10110": {
+        "name": "Flourishing Gods Compass",
+        "type": "Compass",
+        "price": 6.557
+    },
+    "10120": {
+        "name": "War Compass",
+        "type": "Compass",
+        "price": 2.8
+    },
+    "10122": {
+        "name": "Valiant War Compass",
+        "type": "Compass",
+        "price": 5.889
+    },
+    "10130": {
+        "name": "Might Compass",
+        "type": "Compass",
+        "price": 0.243
+    },
+    "10131": {
+        "name": "Flourishing Might Compass",
+        "type": "Compass",
+        "price": 0.237
+    },
+    "10133": {
+        "name": "Onslaught Might Compass",
+        "type": "Compass",
+        "price": 1.352
+    },
+    "10134": {
+        "name": "Mecha Might Compass (Artifact)",
+        "type": "Compass",
+        "price": 15.35
+    },
+    "10140": {
+        "name": "Hunting Compass",
+        "type": "Compass",
+        "price": 2.496
+    },
+    "10142": {
+        "name": "General Hunting Compass",
+        "type": "Compass",
+        "price": 4.467
+    },
+    "10150": {
+        "name": "Mechanical Compass",
+        "type": "Compass",
+        "price": 0.236
+    },
+    "10151": {
+        "name": "Brilliant Mechanical Compass",
+        "type": "Compass",
+        "price": 0.457
+    },
+    "10153": {
+        "name": "Divide Mechanical Compass",
+        "type": "Compass",
+        "price": 13.675
+    },
+    "10154": {
+        "name": "Cruising Mechanical Compass (Artifact)",
+        "type": "Compass",
+        "price": 3.5048
+    },
+    "10160": {
+        "name": "Dark Surge Compass",
+        "type": "Compass",
+        "price": 0.225
+    },
+    "10161": {
+        "name": "Bandit Dark Surge Compass",
+        "type": "Compass",
+        "price": 0.401
+    },
+    "10162": {
+        "name": "Divine Warrior Dark Surge Compass",
+        "type": "Compass",
+        "price": 2.3
+    },
+    "10170": {
+        "name": "Blacksail Compass",
+        "type": "Compass",
+        "price": 0.238
+    },
+    "10171": {
+        "name": "Returning Blacksail Compass",
+        "type": "Compass",
+        "price": 0.42
+    },
+    "10180": {
+        "name": "Cube Compass",
+        "type": "Compass",
+        "price": 0.5
+    },
+    "10181": {
+        "name": "Cube Compass: Two Extremes",
+        "type": "Compass",
+        "price": 6.526
+    },
+    "10182": {
+        "name": "Desire Incarnation Cube Compass",
+        "type": "Compass",
+        "price": 25.7796
+    },
+    "10190": {
+        "name": "Aeterna Compass",
+        "type": "Compass",
+        "price": 0.225
+    },
+    "10191": {
+        "name": "Familial Aeterna Compass",
+        "type": "Compass",
+        "price": 0.429
+    },
+    "10200": {
+        "name": "Nightmare Compass",
+        "type": "Compass",
+        "price": 2.0
+    },
+    "10210": {
+        "name": "Folklore Compass",
+        "type": "Compass",
+        "price": 0.449
+    },
+    "10211": {
+        "name": "Uncanny Folklore Compass",
+        "type": "Compass",
+        "price": 1.689
+    },
+    "10220": {
+        "name": "Doll Compass",
+        "type": "Compass",
+        "price": 0.221
+    },
+    "10221": {
+        "name": "Collection Doll Compass",
+        "type": "Compass",
+        "price": 0.994
+    },
+    "10222": {
+        "name": "Collection Clockwork Compass (Artifact)",
+        "type": "Compass",
+        "price": 29.833
+    },
+    "10230": {
+        "name": "Frozen Canvas Compass",
+        "type": "Compass",
+        "price": 0.241
+    },
+    "10231": {
+        "name": "Frozen Canvas Compass: Abundance",
+        "type": "Compass",
+        "price": 0.712
+    },
+    "10240": {
+        "name": "Arcana Compass",
+        "type": "Compass",
+        "price": 0.241
+    },
+    "10241": {
+        "name": "Trump Card Arcana Compass",
+        "type": "Compass",
+        "price": 4.569
+    },
+    "10242": {
+        "name": "The Fated Arcana Compass",
+        "type": "Compass",
+        "price": 95.833
+    },
+    "10250": {
+        "name": "Sandlord Compass",
+        "type": "Compass",
+        "price": 2.286
+    },
+    "10260": {
+        "name": "Outlaw Compass",
+        "type": "Compass",
+        "price": 10.6495
+    },
+    "10261": {
+        "name": "Bounty Outlaw Compass",
+        "type": "Compass",
+        "price": 110.522
+    },
+    "10262": {
+        "name": "Alert Outlaw Compass",
+        "type": "Compass",
+        "price": 156.833
+    },
+    "10270": {
+        "name": "Cage Astrolabe",
+        "type": "Compass",
+        "price": 0.797
+    },
+    "10272": {
+        "name": "Golden Cage Astrolabe",
+        "type": "Compass",
+        "price": 270.0
+    },
+    "12000": {
+        "name": "Flourishing Profound Probe",
+        "type": "Compass",
+        "price": 7.747
+    },
+    "12001": {
+        "name": "Flourishing Deep Space Probe",
+        "type": "Compass",
+        "price": 39.856
+    },
+    "12010": {
+        "name": "Gear Profound Probe",
+        "type": "Compass",
+        "price": 7.806
+    },
+    "12011": {
+        "name": "Gear Deep Space Probe",
+        "type": "Compass",
+        "price": 84.133
+    },
+    "12020": {
+        "name": "Ember Profound Probe",
+        "type": "Compass",
+        "price": 2.885
+    },
+    "12021": {
+        "name": "Ember Deep Space Probe",
+        "type": "Compass",
+        "price": 3.917
+    },
+    "12030": {
+        "name": "Fluorescent Profound Probe",
+        "type": "Compass",
+        "price": 3.369
+    },
+    "12031": {
+        "name": "Fluorescent Deep Space Probe",
+        "type": "Compass",
+        "price": 25.267
+    },
+    "12040": {
+        "name": "Compass Profound Probe",
+        "type": "Compass",
+        "price": 7.596
+    },
+    "12041": {
+        "name": "Compass Deep Space Probe",
+        "type": "Compass",
+        "price": 51.567
+    },
+    "12050": {
+        "name": "Beacon Profound Probe",
+        "type": "Compass",
+        "price": 2.954
+    },
+    "100001": {
+        "name": "Sin's Plundering Compass",
+        "type": "Compass",
+        "price": 18.9919
+    },
+    "100200": {
+        "name": "Flame Sand",
+        "type": "Hard Currency",
+        "price": 0.0018,
+        "last_time": 1768770600,
+        "from": "FurryHeiLi"
+    },
+    "100300": {
+        "name": "Flame Elementium",
+        "type": "Hard Currency",
+        "price": 1.0
+    },
+    "140004": {
+        "name": "Shallow Dream Talking - Weapon",
+        "type": "Dream Material",
+        "price": 6.7481
+    },
+    "140005": {
+        "name": "Shallow Dream Talking - Armor",
+        "type": "Dream Material",
+        "price": 6.738
+    },
+    "140006": {
+        "name": "Shallow Dream Talking - Trinket",
+        "type": "Dream Material",
+        "price": 21.296
+    },
+    "200003": {
+        "name": "Fine Ember",
+        "type": "Equipment Material",
+        "price": 0.104
+    },
+    "200021": {
+        "name": "Truth Fossil",
+        "type": "Equipment Material",
+        "price": 6.5044,
+        "last_time": 1768770612,
+        "from": "FurryHeiLi"
+    },
+    "200028": {
+        "name": "Precious Ember",
+        "type": "Equipment Material",
+        "price": 0.028
+    },
+    "200029": {
+        "name": "Matchless Ember",
+        "type": "Equipment Material",
+        "price": 0.179,
+        "last_time": 1768770603,
+        "from": "FurryHeiLi"
+    },
+    "200030": {
+        "name": "Ultimate Ember",
+        "type": "Equipment Material",
+        "price": 31.9175,
+        "last_time": 1768770598,
+        "from": "FurryHeiLi"
+    },
+    "210000": {
+        "name": "Aemberon Core",
+        "type": "Corrosion Material",
+        "price": 0.018
+    },
+    "210001": {
+        "name": "Familiar Nexus",
+        "type": "Corrosion Material",
+        "price": 106.751
+    },
+    "210002": {
+        "name": "Corrupted Axis",
+        "type": "Erosion Material",
+        "price": 25.0
+    },
+    "210003": {
+        "name": "Glorious Axis",
+        "type": "Erosion Material",
+        "price": 1000.0
+    },
+    "300006": {
+        "name": "Sacred Fossil",
+        "type": "Equipment Material",
+        "price": 4.0
+    },
+    "330001": {
+        "name": "Snowpaper Fragment",
+        "type": "Special Item",
+        "price": 0.078
+    },
+    "338002": {
+        "name": "Star Net",
+        "type": "Special Item",
+        "price": 394.2
+    },
+    "339001": {
+        "name": "Inspiration Essence",
+        "type": "Special Item",
+        "price": 0.674
+    },
+    "360403": {
+        "name": "Base Mod",
+        "type": "Tower Material",
+        "price": 0.979
+    },
+    "360404": {
+        "name": "Expansion Mod - Warlock",
+        "type": "Tower Material",
+        "price": 70.3333
+    },
+    "360405": {
+        "name": "Expansion Mod - Vanguard",
+        "type": "Tower Material",
+        "price": 50.689
+    },
+    "360406": {
+        "name": "Expansion Mod - Sniper",
+        "type": "Tower Material",
+        "price": 22.867
+    },
+    "360407": {
+        "name": "Expansion Mod - Tank",
+        "type": "Tower Material",
+        "price": 22.7833
+    },
+    "370101": {
+        "name": "Prism Gauge - Rare",
+        "type": "Overlay Material",
+        "price": 7.6271,
+        "last_time": 1768770660,
+        "from": "FurryHeiLi"
+    },
+    "370201": {
+        "name": "Prism Gauge - Legendary",
+        "type": "Overlay Material",
+        "price": 0.134
+    },
+    "400006": {
+        "name": "Glacial Abyss Beacon (T7)",
+        "type": "Map Ticket",
+        "price": 0.774
+    },
+    "400007": {
+        "name": "Glacial Abyss Beacon (T8)",
+        "type": "Map Ticket",
+        "price": 3.8965,
+        "last_time": 1768769446,
+        "from": "FurryHeiLi"
+    },
+    "400008": {
+        "name": "Deep Space Beacon",
+        "type": "Map Ticket",
+        "price": 17.932
+    },
+    "400014": {
+        "name": "Blistering Lava Sea Beacon (T7)",
+        "type": "Map Ticket",
+        "price": 1.152
+    },
+    "400015": {
+        "name": "Blistering Lava Sea Beacon (T8)",
+        "type": "Map Ticket",
+        "price": 3.1412,
+        "last_time": 1768769443,
+        "from": "FurryHeiLi"
+    },
+    "400021": {
+        "name": "Steel Forge Beacon (T7)",
+        "type": "Map Ticket",
+        "price": 0.657
+    },
+    "400022": {
+        "name": "Steel Forge Beacon (T8)",
+        "type": "Map Ticket",
+        "price": 2.383
+    },
+    "400027": {
+        "name": "Thunder Wastes Beacon (T7)",
+        "type": "Map Ticket",
+        "price": 0.938
+    },
+    "400028": {
+        "name": "Thunder Wastes Beacon (T8)",
+        "type": "Map Ticket",
+        "price": 3.479,
+        "last_time": 1768769411,
+        "from": "FurryHeiLi"
+    },
+    "400032": {
+        "name": "Voidlands Beacon (T7)",
+        "type": "Map Ticket",
+        "price": 0.1059,
+        "last_time": 1768769449,
+        "from": "FurryHeiLi"
+    },
+    "400033": {
+        "name": "Voidlands Beacon (T8)",
+        "type": "Map Ticket",
+        "price": 2.486
+    },
+    "410101": {
+        "name": "Edict: Dart",
+        "type": "Boss Ticket",
+        "price": 11.763
+    },
+    "410102": {
+        "name": "Edict: Dive",
+        "type": "Boss Ticket",
+        "price": 10.515
+    },
+    "410103": {
+        "name": "Edict: Ruin",
+        "type": "BOSS Ticket",
+        "price": 11.462
+    },
+    "410104": {
+        "name": "Edict: Doom",
+        "type": "BOSS Ticket",
+        "price": 33.997
+    },
+    "410201": {
+        "name": "Void Sea Invitation - Craving",
+        "type": "BOSS Ticket",
+        "price": 19.197
+    },
+    "410202": {
+        "name": "Void Sea Invitation - Ecstasy",
+        "type": "BOSS Ticket",
+        "price": 38.626
+    },
+    "410203": {
+        "name": "Void Sea Invitation - Sorrow",
+        "type": "BOSS Ticket",
+        "price": 36.433
+    },
+    "410301": {
+        "name": "Desire Core - Record",
+        "type": "BOSS Ticket",
+        "price": 88.898
+    },
+    "410302": {
+        "name": "Desire Core - Creation",
+        "type": "BOSS Ticket",
+        "price": 172.577
+    },
+    "410303": {
+        "name": "Desire Core - Devastation",
+        "type": "BOSS Ticket",
+        "price": 238.867
+    },
+    "410401": {
+        "name": "Queen's Wick - Imprisoned",
+        "type": "BOSS Ticket",
+        "price": 29.833
+    },
+    "410402": {
+        "name": "Queen's Wick - Pursuit",
+        "type": "BOSS Ticket",
+        "price": 137.5
+    },
+    "410403": {
+        "name": "Queen's Wick - Revenge",
+        "type": "BOSS Ticket",
+        "price": 26619.422
+    },
+    "410501": {
+        "name": "Queen's Grace - Slaughter",
+        "type": "BOSS Ticket",
+        "price": 0.846
+    },
+    "410502": {
+        "name": "Queen's Grace - Authority",
+        "type": "BOSS Ticket",
+        "price": 9.847
+    },
+    "410503": {
+        "name": "Queen's Grace - Lust",
+        "type": "Boss Ticket",
+        "price": 1.873
+    },
+    "430000": {
+        "name": "The Beginning",
+        "type": "Boss Ticket",
+        "price": 2.295
+    },
+    "430001": {
+        "name": "The End",
+        "type": "Boss Ticket",
+        "price": 1.548
+    },
+    "430002": {
+        "name": "Beginning of the End",
+        "type": "Boss Ticket",
+        "price": 12.4899
+    },
+    "440001": {
+        "name": "Divinity Emblem - Machine",
+        "type": "God's Emblem",
+        "price": 3.185
+    },
+    "440002": {
+        "name": "Divinity Emblem - Might",
+        "type": "God's Emblem",
+        "price": 18.068
+    },
+    "440003": {
+        "name": "Divinity Emblem - War",
+        "type": "God's Emblem",
+        "price": 85.167
+    },
+    "440004": {
+        "name": "Divinity Emblem - Hunting",
+        "type": "God's Emblem",
+        "price": 2.427
+    },
+    "990005": {
+        "name": "Mist Essence",
+        "type": "Game Ticket",
+        "price": 79.758
+    },
+    "990007": {
+        "name": "Resident's Eye",
+        "type": "Game Ticket",
+        "price": 0.6127,
+        "last_time": 1768770625,
+        "from": "FurryHeiLi"
+    },
+    "990091": {
+        "name": "Conquest Insignia",
+        "type": "Game Ticket",
+        "price": 42751.1818
+    },
+    "3000001": {
+        "name": "Proof of the the Brave I",
+        "type": "Game Ticket",
+        "price": 0.1956,
+        "last_time": 1768770618,
+        "from": "FurryHeiLi"
+    },
+    "3000002": {
+        "name": "Proof of the the Brave II",
+        "type": "Game Ticket",
+        "price": 0.067
+    },
+    "3000003": {
+        "name": "Proof of the Brave III",
+        "type": "Game Ticket",
+        "price": 1.0,
+        "last_time": 1768770617,
+        "from": "FurryHeiLi"
+    },
+    "3000004": {
+        "name": "Proof of the Brave IV",
+        "type": "Gameplay Ticket",
+        "price": 8.6,
+        "last_time": 1768770614,
+        "from": "FurryHeiLi"
+    },
+    "3000005": {
+        "name": "Proof of the Brave V",
+        "type": "Gameplay Ticket",
+        "price": 26.617
+    },
+    "6055": {
+        "name": "Antonius' Research",
+        "type": "Memory Fluorescence",
+        "price": 90.486
+    },
+    "380201": {
+        "name": "Rotten Organ: Fine",
+        "type": "Vorax Material",
+        "price": 2.193,
+        "last_time": 1768771550,
+        "from": "FurryHeiLi"
+    },
+    "380202": {
+        "name": "Rotten Organ: Matchless",
+        "type": "Vorax Material",
+        "price": 1.2472,
+        "last_time": 1768771548,
+        "from": "FurryHeiLi"
+    },
+    "380203": {
+        "name": "Inert Organ: Fine",
+        "type": "Vorax Material",
+        "price": 37.9,
+        "last_time": 1768771546,
+        "from": "FurryHeiLi"
+    },
+    "380204": {
+        "name": "Inert Organ: Matchless",
+        "type": "Vorax Material",
+        "price": 17.9,
+        "last_time": 1768771544,
+        "from": "FurryHeiLi"
+    },
+    "380205": {
+        "name": "Vital Organ: Fine",
+        "type": "Vorax Material",
+        "price": 68.0333,
+        "last_time": 1768771553,
+        "from": "FurryHeiLi"
+    },
+    "380206": {
+        "name": "Vital Organ: Matchless",
+        "type": "Vorax Material",
+        "price": 47.1333,
+        "last_time": 1768771539,
+        "from": "FurryHeiLi"
+    },
+    "381001": {
+        "name": "Flawless Wings: Bladed",
+        "type": "Vorax Material",
+        "price": 103.0,
+        "last_time": 1768771670,
+        "from": "FurryHeiLi"
+    },
+    "381002": {
+        "name": "Flawless Wings: Molten",
+        "type": "Vorax Material",
+        "price": 20.4091,
+        "last_time": 1768771668,
+        "from": "FurryHeiLi"
+    },
+    "381003": {
+        "name": "Flawless Wings: Ossified",
+        "type": "Vorax Material",
+        "price": 327.1765,
+        "last_time": 1768771647,
+        "from": "FurryHeiLi"
+    },
+    "381004": {
+        "name": "Flawless Wings: Leathern",
+        "type": "Vorax Material",
+        "price": 82.1429,
+        "last_time": 1768771653,
+        "from": "FurryHeiLi"
+    },
+    "381023": {
+        "name": "Flawless Wings: Shell",
+        "type": "Vorax Material",
+        "price": 513.8333,
+        "last_time": 1768771665,
+        "from": "FurryHeiLi"
+    },
+    "381005": {
+        "name": "Flawless Skin: Crystalline",
+        "type": "Vorax Material",
+        "price": 179.1,
+        "last_time": 1768772865,
+        "from": "FurryHeiLi"
+    },
+    "381006": {
+        "name": "Flawless Skin: Barbed",
+        "type": "Vorax Material",
+        "price": 86.1667,
+        "last_time": 1768772867,
+        "from": "FurryHeiLi"
+    },
+    "381007": {
+        "name": "Flawless Skin: Tolerant",
+        "type": "Vorax Material",
+        "price": 64.0,
+        "last_time": 1768772869,
+        "from": "FurryHeiLi"
+    },
+    "381008": {
+        "name": "Flawless Skin: Adamantine",
+        "type": "Vorax Material",
+        "price": 535.2632,
+        "last_time": 1768772871,
+        "from": "FurryHeiLi"
+    },
+    "381009": {
+        "name": "Flawless Skin: Compensatory",
+        "type": "Vorax Material",
+        "price": 147.8667,
+        "last_time": 1768772874,
+        "from": "FurryHeiLi"
+    },
+    "381010": {
+        "name": "Flawless Skin: Attenuated",
+        "type": "Vorax Material",
+        "price": 1.0
+    },
+    "381011": {
+        "name": "Flawless Skin: Acid-Etched",
+        "type": "Vorax Material",
+        "price": 1.0
+    },
+    "381012": {
+        "name": "Flawless Skin: Hyperplastic",
+        "type": "Vorax Material",
+        "price": 140.5714,
+        "last_time": 1768772879,
+        "from": "FurryHeiLi"
+    },
+    "381013": {
+        "name": "Flawless Skin: Weightless",
+        "type": "Vorax Material",
+        "price": 22.1724,
+        "last_time": 1768772881,
+        "from": "FurryHeiLi"
+    },
+    "381014": {
+        "name": "Flawless Skin: Glabrous",
+        "type": "Vorax Material",
+        "price": 1.0
+    },
+    "381015": {
+        "name": "Flawless Skin: Dura",
+        "type": "Vorax Material",
+        "price": 664.8889,
+        "last_time": 1768772885,
+        "from": "FurryHeiLi"
+    },
+    "381016": {
+        "name": "Flawless Eyes: Rancorous",
+        "type": "Vorax Material",
+        "price": 147.1739,
+        "last_time": 1768774116,
+        "from": "FurryHeiLi"
+    },
+    "381017": {
+        "name": "Flawless Eyes: Impassive",
+        "type": "Vorax Material",
+        "price": 61.3,
+        "last_time": 1768774118,
+        "from": "FurryHeiLi"
+    },
+    "381018": {
+        "name": "Flawless Eyes: Sinister",
+        "type": "Vorax Material",
+        "price": 44.6333,
+        "last_time": 1768772842,
+        "from": "FurryHeiLi"
+    },
+    "381019": {
+        "name": "Flawless Eyes: Ardent",
+        "type": "Vorax Material",
+        "price": 22.7667,
+        "last_time": 1768774122,
+        "from": "FurryHeiLi"
+    },
+    "381020": {
+        "name": "Flawless Eyes: Keen",
+        "type": "Vorax Material",
+        "price": 35.5417,
+        "last_time": 1768774124,
+        "from": "FurryHeiLi"
+    },
+    "381021": {
+        "name": "Flawless Eyes: Tarnished",
+        "type": "Vorax Material",
+        "price": 21.0,
+        "last_time": 1768774126,
+        "from": "FurryHeiLi"
+    },
+    "381022": {
+        "name": "Flawless Eyes: Cursed",
+        "type": "Vorax Material",
+        "price": 5398.25,
+        "last_time": 1768772860,
+        "from": "FurryHeiLi"
+    },
+    "381024": {
+        "name": "Flawless Eyes: Limpid",
+        "type": "Vorax Material",
+        "price": 315.6667,
+        "last_time": 1768774130,
+        "from": "FurryHeiLi"
+    },
+    "381025": {
+        "name": "Flawless Eyes: Glistening",
+        "type": "Vorax Material",
+        "price": 35.7,
+        "last_time": 1768774132,
+        "from": "FurryHeiLi"
+    },
+    "381046": {
+        "name": "Flawless Embryo: Distended",
+        "type": "Vorax Material",
+        "price": 1.0
+    },
+    "381047": {
+        "name": "Flawless Embryo: Lacerated",
+        "type": "Vorax Material",
+        "price": 24.3167,
+        "last_time": 1768774136,
+        "from": "FurryHeiLi"
+    },
+    "381048": {
+        "name": "Flawless Embryo: Gnawed",
+        "type": "Vorax Material",
+        "price": 86.5,
+        "last_time": 1768774138,
+        "from": "FurryHeiLi"
+    },
+    "381049": {
+        "name": "Flawless Embryo: Aberrant",
+        "type": "Vorax Material",
+        "price": 65.2174,
+        "last_time": 1768774140,
+        "from": "FurryHeiLi"
+    },
+    "381050": {
+        "name": "Flawless Embryo: Didymous",
+        "type": "Vorax Material",
+        "price": 134.7241,
+        "last_time": 1768774142,
+        "from": "FurryHeiLi"
+    },
+    "381051": {
+        "name": "Flawless Embryo: Voracious",
+        "type": "Vorax Material",
+        "price": 20.3333,
+        "last_time": 1768774144,
+        "from": "FurryHeiLi"
+    },
+    "381052": {
+        "name": "Flawless Embryo: Compliant",
+        "type": "Vorax Material",
+        "price": 62.0357,
+        "last_time": 1768774146,
+        "from": "FurryHeiLi"
+    },
+    "381053": {
+        "name": "Flawless Embryo: Polyembryonic",
+        "type": "Vorax Material",
+        "price": 19.3333,
+        "last_time": 1768774148,
+        "from": "FurryHeiLi"
+    },
+    "381054": {
+        "name": "Flawless Heart: Clangorous",
+        "type": "Vorax Material",
+        "price": 1041.0,
+        "last_time": 1768774154,
+        "from": "FurryHeiLi"
+    },
+    "381055": {
+        "name": "Flawless Heart: Bellicose",
+        "type": "Vorax Material",
+        "price": 50.7667,
+        "last_time": 1768774152,
+        "from": "FurryHeiLi"
+    },
+    "381056": {
+        "name": "Flawless Heart: Perplexed",
+        "type": "Vorax Material",
+        "price": 15.3667,
+        "last_time": 1768774156,
+        "from": "FurryHeiLi"
+    },
+    "381057": {
+        "name": "Flawless Heart: Exuberant",
+        "type": "Vorax Material",
+        "price": 799.375,
+        "last_time": 1768774158,
+        "from": "FurryHeiLi"
+    },
+    "381058": {
+        "name": "Flawless Heart: Unmoored",
+        "type": "Vorax Material",
+        "price": 25.8667,
+        "last_time": 1768774160,
+        "from": "FurryHeiLi"
+    },
+    "381059": {
+        "name": "Flawless Heart: Anginal",
+        "type": "Vorax Material",
+        "price": 1.0
+    },
+    "381060": {
+        "name": "Flawless Heart: Arrested",
+        "type": "Vorax Material",
+        "price": 1.0
+    },
+    "381061": {
+        "name": "Flawless Heart: Extrasystolic",
+        "type": "Vorax Material",
+        "price": 114.7586,
+        "last_time": 1768774168,
+        "from": "FurryHeiLi"
+    },
+    "381062": {
+        "name": "Flawless Heart: Soldified",
+        "type": "Vorax Material",
+        "price": 56.9667,
+        "last_time": 1768774170,
+        "from": "FurryHeiLi"
+    },
+    "381063": {
+        "name": "Flawless Heart: Vaporized",
+        "type": "Vorax Material",
+        "price": 19.1,
+        "last_time": 1768774180,
+        "from": "FurryHeiLi"
+    },
+    "381064": {
+        "name": "Flawless Heart: Liquefied",
+        "type": "Vorax Material",
+        "price": 74.6,
+        "last_time": 1768774178,
+        "from": "FurryHeiLi"
+    },
+    "381065": {
+        "name": "Flawless Tongue: Glib",
+        "type": "Vorax Material",
+        "price": 73.1,
+        "last_time": 1768774184,
+        "from": "FurryHeiLi"
+    },
+    "381066": {
+        "name": "Flawless Tongue: Supple",
+        "type": "Vorax Material",
+        "price": 169.7857,
+        "last_time": 1768774187,
+        "from": "FurryHeiLi"
+    },
+    "381067": {
+        "name": "Flawless Tongue: Dexterous",
+        "type": "Vorax Material",
+        "price": 58.2,
+        "last_time": 1768774189,
+        "from": "FurryHeiLi"
+    },
+    "381068": {
+        "name": "Flawless Tongue: Eloquent",
+        "type": "Vorax Material",
+        "price": 324.7667,
+        "last_time": 1768774191,
+        "from": "FurryHeiLi"
+    },
+    "381069": {
+        "name": "Flawless Tongue: Ursine",
+        "type": "Vorax Material",
+        "price": 19.7167,
+        "last_time": 1768774193,
+        "from": "FurryHeiLi"
+    },
+    "381070": {
+        "name": "Flawless Tongue: Feline",
+        "type": "Vorax Material",
+        "price": 1.0
+    },
+    "381071": {
+        "name": "Flawless Tongue: Vulpine",
+        "type": "Vorax Material",
+        "price": 159.8571,
+        "last_time": 1768774197,
+        "from": "FurryHeiLi"
+    },
+    "381072": {
+        "name": "Flawless Tongue: Ardent",
+        "type": "Vorax Material",
+        "price": 55.4,
+        "last_time": 1768774213,
+        "from": "FurryHeiLi"
+    },
+    "381073": {
+        "name": "Flawless Tongue: Inscribed",
+        "type": "Vorax Material",
+        "price": 31.4,
+        "last_time": 1768774202,
+        "from": "FurryHeiLi"
+    },
+    "381074": {
+        "name": "Flawless Tongue: Apathetic",
+        "type": "Vorax Material",
+        "price": 66.6,
+        "last_time": 1768774210,
+        "from": "FurryHeiLi"
+    },
+    "381075": {
+        "name": "Flawless Liver: Scorched",
+        "type": "Vorax Material",
+        "price": 35.4583,
+        "last_time": 1768774257,
+        "from": "FurryHeiLi"
+    },
+    "381076": {
+        "name": "Flawless Liver: Combusted",
+        "type": "Vorax Material",
+        "price": 62.6364,
+        "last_time": 1768774249,
+        "from": "FurryHeiLi"
+    },
+    "381077": {
+        "name": "Flawless Liver: Thunderclap",
+        "type": "Vorax Material",
+        "price": 48.4,
+        "last_time": 1768774241,
+        "from": "FurryHeiLi"
+    },
+    "381078": {
+        "name": "Flawless Liver: Dazzling",
+        "type": "Vorax Material",
+        "price": 37.7,
+        "last_time": 1768774252,
+        "from": "FurryHeiLi"
+    },
+    "381079": {
+        "name": "Flawless Liver: Iced",
+        "type": "Vorax Material",
+        "price": 66.381,
+        "last_time": 1768774233,
+        "from": "FurryHeiLi"
+    },
+    "381080": {
+        "name": "Flawless Liver: Frosted",
+        "type": "Vorax Material",
+        "price": 156.1379,
+        "last_time": 1768774231,
+        "from": "FurryHeiLi"
+    },
+    "381026": {
+        "name": "Flawless Spine: Elongated ",
+        "type": "Vorax Material",
+        "price": 240.9474,
+        "last_time": 1768774261,
+        "from": "FurryHeiLi"
+    },
+    "381027": {
+        "name": "Flawless Spine: Hyperostosis",
+        "type": "Vorax Material",
+        "price": 20.4,
+        "last_time": 1768774264,
+        "from": "FurryHeiLi"
+    },
+    "381028": {
+        "name": "Flawless Nerve: Compelling",
+        "type": "Vorax Material",
+        "price": 991.6842,
+        "last_time": 1768774266,
+        "from": "FurryHeiLi"
+    },
+    "381029": {
+        "name": "Flawless Spine: Entwined",
+        "type": "Vorax Material",
+        "price": 599.2941,
+        "last_time": 1768774269,
+        "from": "FurryHeiLi"
+    },
+    "381030": {
+        "name": "Flawless Nerve: Unsealed(Pre-fix)",
+        "type": "Vorax Material",
+        "price": 954.625,
+        "last_time": 1768774271,
+        "from": "FurryHeiLi"
+    },
+    "381031": {
+        "name": "Flawless Ears: Resonant",
+        "type": "Vorax Material",
+        "price": 43.5714,
+        "last_time": 1768774273,
+        "from": "FurryHeiLi"
+    },
+    "381032": {
+        "name": "Flawless Spine: Extended",
+        "type": "Vorax Material",
+        "price": 154.3846,
+        "last_time": 1768774275,
+        "from": "FurryHeiLi"
+    },
+    "381033": {
+        "name": "Flawless Spine: Fractured",
+        "type": "Vorax Material",
+        "price": 37.6667,
+        "last_time": 1768774278,
+        "from": "FurryHeiLi"
+    },
+    "381034": {
+        "name": "Flawless Ears: Echoing",
+        "type": "Vorax Material",
+        "price": 41.1429,
+        "last_time": 1768774280,
+        "from": "FurryHeiLi"
+    },
+    "381035": {
+        "name": "Flawless Ears: Prolonged",
+        "type": "Vorax Material",
+        "price": 42.6667,
+        "last_time": 1768774284,
+        "from": "FurryHeiLi"
+    },
+    "381036": {
+        "name": "Flawless Ears: Partitioned",
+        "type": "Vorax Material",
+        "price": 270.4783,
+        "last_time": 1768774315,
+        "from": "FurryHeiLi"
+    },
+    "381037": {
+        "name": "Flawless Spine: Fragmented",
+        "type": "Vorax Material",
+        "price": 33.25,
+        "last_time": 1768774313,
+        "from": "FurryHeiLi"
+    },
+    "381038": {
+        "name": "Flawless Ears: Clairaudient",
+        "type": "Vorax Material",
+        "price": 25.4333,
+        "last_time": 1768774310,
+        "from": "FurryHeiLi"
+    },
+    "381039": {
+        "name": "Flawless Nerve: Excited",
+        "type": "Vorax Material",
+        "price": 53.1,
+        "last_time": 1768774308,
+        "from": "FurryHeiLi"
+    },
+    "381041": {
+        "name": "Flawless Ears: Prostrate",
+        "type": "Vorax Material",
+        "price": 20.0333,
+        "last_time": 1768774306,
+        "from": "FurryHeiLi"
+    },
+    "381042": {
+        "name": "Flawless Nerve: Conductive",
+        "type": "Vorax Material",
+        "price": 979.0455,
+        "last_time": 1768774303,
+        "from": "FurryHeiLi"
+    },
+    "381043": {
+        "name": "Flawless Spine: Malleable",
+        "type": "Vorax Material",
+        "price": 1.0
+    },
+    "381044": {
+        "name": "Flawless Spine: Vermicular",
+        "type": "Vorax Material",
+        "price": 45.0,
+        "last_time": 1768774296,
+        "from": "FurryHeiLi"
+    },
+    "381045": {
+        "name": "Flawless Nerve: Ruptured",
+        "type": "Vorax Material",
+        "price": 2315.1538,
+        "last_time": 1768774300,
+        "from": "FurryHeiLi"
+    },
+    "381081": {
+        "name": "Flawless Nerve: Unsealed(Suffix)",
+        "type": "Vorax Material",
+        "price": 353.5833,
+        "last_time": 1768774290,
+        "from": "FurryHeiLi"
+    },
+    "381082": {
+        "name": "Flawless Spine: Impalement",
+        "type": "Vorax Material",
+        "price": 249.1667,
+        "last_time": 1768774286,
+        "from": "FurryHeiLi"
+    },
+    "381083": {
+        "name": "Flawless Nerve: Dominant",
+        "type": "Vorax Material",
+        "price": 274.0909,
+        "last_time": 1768774317,
+        "from": "FurryHeiLi"
+    }
 }

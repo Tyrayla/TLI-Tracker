@@ -813,7 +813,7 @@ total_time = 0
 map_count = 0
 
 class App(Tk):
-    show_type = ["Compass","Currency","Special Item","Memory Material","Equipment Material","Gameplay Ticket","Map Ticket","Cube Material","Corruption Material","Dream Material","Tower Material","BOSS Ticket","Memory Glow","Memory Fluorescence","Divine Emblem","Overlap Material","Hard Currency"]
+    show_type = ["Compass","Currency","Special Item","Memory Material","Equipment Material","Gameplay Ticket","Map Ticket","Cube Material","Corruption Material","Dream Material","Tower Material","Boss Ticket","Memory Glow","Memory Fluorescence","Divine Emblem","Overrealm Material","Hard Currency","Vorax Material"]
     # Checkmark, Circle, X
     status = ["✔", "◯", "✘"]
     
@@ -1252,7 +1252,7 @@ class App(Tk):
                 pass
 
     def show_all_type(self):
-        self.show_type = ["Compass","Currency","Special Item","Memory Material","Equipment Material","Gameplay Ticket","Map Ticket","Cube Material","Corruption Material","Dream Material","Tower Material","BOSS Ticket","Memory Glow","Memory Fluorescence","Divine Emblem","Overlap Material", "Hard Currency"]
+        self.show_type = ["Compass","Currency","Special Item","Memory Material","Equipment Material","Gameplay Ticket","Map Ticket","Cube Material","Corruption Material","Dream Material","Tower Material","Boss Ticket","Memory Glow","Memory Fluorescence","Divine Emblem","Overrealm Material", "Hard Currency","Vorax Material"]
         self.reshow()
     def show_tonghuo(self):
         self.show_type = ["Currency", "Hard Currency"]
@@ -1267,7 +1267,7 @@ class App(Tk):
         self.show_type = ["Memory Glow", "Memory Fluorescence"]
         self.reshow()
     def show_qita(self):
-        self.show_type = ["Special Item","Memory Material","Gameplay Ticket","Map Ticket","Cube Material","Corruption Material","Dream Material","Tower Material","BOSS Ticket","Divine Emblem","Overlap Material"]
+        self.show_type = ["Special Item","Memory Material","Gameplay Ticket","Map Ticket","Cube Material","Corruption Material","Dream Material","Tower Material","Boss Ticket","Divine Emblem","Overrealm Material","Vorax Material"]
         self.reshow()
 
 class MyThread(threading.Thread):
