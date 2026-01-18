@@ -1,7 +1,8 @@
 # FurTorch
 
 Tyra's Fork of the English Revamp to Furtorch. Focused on improving translations without AI to match the English client.
-The standalone features were added by https://github.com/lucaslafere/TLI-Tracker and their description is below.
+
+The standalone features were added by https://github.com/lucaslafere/TLI-Tracker in his fork.
 
 
 ## Installation
