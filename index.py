@@ -655,7 +655,7 @@ def process_drops(drops, item_id_table, price_table):
         price = 0.0
         if item_id in price_table:
             price = price_table[item_id]
-            if config_data.get("tax", 0) == 1 and item_id != "100300":
+            if config_data.get("tax", 0) == 1 and item_id != "100300" and amount > 0:
                 price = price * 0.875
             # Amount can be positive (gain) or negative (consumption)
             income += price * amount
@@ -1185,9 +1185,9 @@ class App(Tk):
             if item_type not in self.show_type:
                 continue
             item_price = full_table[item_id].get("price", 0)
-            if config_data.get("tax", 0) == 1 and item_id != "100300":
-                item_price = item_price * 0.875
             qty = tmp.get(key, 0)
+            if config_data.get("tax", 0) == 1 and item_id != "100300" and qty > 0:
+                item_price = item_price * 0.875
             total_value = qty * item_price
             last_time = full_table[item_id].get("last_update", 0)
             time_passed = now - last_time

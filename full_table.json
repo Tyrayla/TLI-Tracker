@@ -27,7 +27,9 @@
     "5028": {
         "name": "Netherrealm Resonance",
         "type": "Hard Currency",
-        "price": 0.169
+        "price": 0.0326,
+        "last_time": 1768776514,
+        "from": "FurryHeiLi"
     },
     "5029": {
         "name": "Winding Key",
@@ -85,7 +87,9 @@
     "5210": {
         "name": "Divinity Stone",
         "type": "Cube Material",
-        "price": 0.022
+        "price": 0.022,
+        "last_time": 1768776350,
+        "from": "FurryHeiLi"
     },
     "5220": {
         "name": "Transcendence Wedge (Magic)",
@@ -483,7 +487,9 @@
     "10002": {
         "name": "Sinful Plunder Compass (Artifact)",
         "type": "Compass",
-        "price": 54.633
+        "price": 16.5567,
+        "last_time": 1768777535,
+        "from": "FurryHeiLi"
     },
     "10003": {
         "name": "Transgression Plunder Compass",
@@ -708,7 +714,9 @@
     "10171": {
         "name": "Returning Blacksail Compass",
         "type": "Compass",
-        "price": 0.42
+        "price": 3.7399,
+        "last_time": 1768778348,
+        "from": "FurryHeiLi"
     },
     "10180": {
         "name": "Cube Compass",
@@ -718,7 +726,9 @@
     "10181": {
         "name": "Cube Compass: Two Extremes",
         "type": "Compass",
-        "price": 6.526
+        "price": 9.6293,
+        "last_time": 1768778335,
+        "from": "FurryHeiLi"
     },
     "10182": {
         "name": "Desire Incarnation Cube Compass",
@@ -778,7 +788,9 @@
     "10240": {
         "name": "Arcana Compass",
         "type": "Compass",
-        "price": 0.241
+        "price": 1.5926,
+        "last_time": 1768778322,
+        "from": "FurryHeiLi"
     },
     "10241": {
         "name": "Trump Card Arcana Compass",
@@ -798,7 +810,9 @@
     "10260": {
         "name": "Outlaw Compass",
         "type": "Compass",
-        "price": 10.6495
+        "price": 0.9854,
+        "last_time": 1768778319,
+        "from": "FurryHeiLi"
     },
     "10261": {
         "name": "Bounty Outlaw Compass",
@@ -884,7 +898,7 @@
         "name": "Flame Sand",
         "type": "Hard Currency",
         "price": 0.0018,
-        "last_time": 1768770600,
+        "last_time": 1768776518,
         "from": "FurryHeiLi"
     },
     "100300": {
@@ -1023,8 +1037,8 @@
     "400007": {
         "name": "Glacial Abyss Beacon (T8)",
         "type": "Map Ticket",
-        "price": 3.8965,
-        "last_time": 1768769446,
+        "price": 3.8762,
+        "last_time": 1768778310,
         "from": "FurryHeiLi"
     },
     "400008": {
@@ -1090,67 +1104,71 @@
     },
     "410103": {
         "name": "Edict: Ruin",
-        "type": "BOSS Ticket",
+        "type": "Boss Ticket",
         "price": 11.462
     },
     "410104": {
         "name": "Edict: Doom",
-        "type": "BOSS Ticket",
+        "type": "Boss Ticket",
         "price": 33.997
     },
     "410201": {
         "name": "Void Sea Invitation - Craving",
-        "type": "BOSS Ticket",
-        "price": 19.197
+        "type": "Boss Ticket",
+        "price": 14.0198,
+        "last_time": 1768778307,
+        "from": "FurryHeiLi"
     },
     "410202": {
         "name": "Void Sea Invitation - Ecstasy",
-        "type": "BOSS Ticket",
+        "type": "Boss Ticket",
         "price": 38.626
     },
     "410203": {
         "name": "Void Sea Invitation - Sorrow",
-        "type": "BOSS Ticket",
+        "type": "Boss Ticket",
         "price": 36.433
     },
     "410301": {
         "name": "Desire Core - Record",
-        "type": "BOSS Ticket",
-        "price": 88.898
+        "type": "Boss Ticket",
+        "price": 21.5752,
+        "last_time": 1768778304,
+        "from": "FurryHeiLi"
     },
     "410302": {
         "name": "Desire Core - Creation",
-        "type": "BOSS Ticket",
+        "type": "Boss Ticket",
         "price": 172.577
     },
     "410303": {
         "name": "Desire Core - Devastation",
-        "type": "BOSS Ticket",
+        "type": "Boss Ticket",
         "price": 238.867
     },
     "410401": {
         "name": "Queen's Wick - Imprisoned",
-        "type": "BOSS Ticket",
+        "type": "Boss Ticket",
         "price": 29.833
     },
     "410402": {
         "name": "Queen's Wick - Pursuit",
-        "type": "BOSS Ticket",
+        "type": "Boss Ticket",
         "price": 137.5
     },
     "410403": {
         "name": "Queen's Wick - Revenge",
-        "type": "BOSS Ticket",
+        "type": "Boss Ticket",
         "price": 26619.422
     },
     "410501": {
         "name": "Queen's Grace - Slaughter",
-        "type": "BOSS Ticket",
+        "type": "Boss Ticket",
         "price": 0.846
     },
     "410502": {
         "name": "Queen's Grace - Authority",
-        "type": "BOSS Ticket",
+        "type": "Boss Ticket",
         "price": 9.847
     },
     "410503": {
@@ -1397,15 +1415,15 @@
     "381016": {
         "name": "Flawless Eyes: Rancorous",
         "type": "Vorax Material",
-        "price": 147.1739,
-        "last_time": 1768774116,
+        "price": 150.6818,
+        "last_time": 1768772838,
         "from": "FurryHeiLi"
     },
     "381017": {
         "name": "Flawless Eyes: Impassive",
         "type": "Vorax Material",
-        "price": 61.3,
-        "last_time": 1768774118,
+        "price": 61.4333,
+        "last_time": 1768772840,
         "from": "FurryHeiLi"
     },
     "381018": {
@@ -1419,21 +1437,21 @@
         "name": "Flawless Eyes: Ardent",
         "type": "Vorax Material",
         "price": 22.7667,
-        "last_time": 1768774122,
+        "last_time": 1768772844,
         "from": "FurryHeiLi"
     },
     "381020": {
         "name": "Flawless Eyes: Keen",
         "type": "Vorax Material",
-        "price": 35.5417,
-        "last_time": 1768774124,
+        "price": 34.32,
+        "last_time": 1768772855,
         "from": "FurryHeiLi"
     },
     "381021": {
         "name": "Flawless Eyes: Tarnished",
         "type": "Vorax Material",
-        "price": 21.0,
-        "last_time": 1768774126,
+        "price": 21.0526,
+        "last_time": 1768772857,
         "from": "FurryHeiLi"
     },
     "381022": {
@@ -1446,15 +1464,15 @@
     "381024": {
         "name": "Flawless Eyes: Limpid",
         "type": "Vorax Material",
-        "price": 315.6667,
-        "last_time": 1768774130,
+        "price": 358.3333,
+        "last_time": 1768772861,
         "from": "FurryHeiLi"
     },
     "381025": {
         "name": "Flawless Eyes: Glistening",
         "type": "Vorax Material",
-        "price": 35.7,
-        "last_time": 1768774132,
+        "price": 36.2667,
+        "last_time": 1768772863,
         "from": "FurryHeiLi"
     },
     "381046": {
@@ -1465,86 +1483,62 @@
     "381047": {
         "name": "Flawless Embryo: Lacerated",
         "type": "Vorax Material",
-        "price": 24.3167,
-        "last_time": 1768774136,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381048": {
         "name": "Flawless Embryo: Gnawed",
         "type": "Vorax Material",
-        "price": 86.5,
-        "last_time": 1768774138,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381049": {
         "name": "Flawless Embryo: Aberrant",
         "type": "Vorax Material",
-        "price": 65.2174,
-        "last_time": 1768774140,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381050": {
         "name": "Flawless Embryo: Didymous",
         "type": "Vorax Material",
-        "price": 134.7241,
-        "last_time": 1768774142,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381051": {
         "name": "Flawless Embryo: Voracious",
         "type": "Vorax Material",
-        "price": 20.3333,
-        "last_time": 1768774144,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381052": {
         "name": "Flawless Embryo: Compliant",
         "type": "Vorax Material",
-        "price": 62.0357,
-        "last_time": 1768774146,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381053": {
         "name": "Flawless Embryo: Polyembryonic",
         "type": "Vorax Material",
-        "price": 19.3333,
-        "last_time": 1768774148,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381054": {
         "name": "Flawless Heart: Clangorous",
         "type": "Vorax Material",
-        "price": 1041.0,
-        "last_time": 1768774154,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381055": {
         "name": "Flawless Heart: Bellicose",
         "type": "Vorax Material",
-        "price": 50.7667,
-        "last_time": 1768774152,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381056": {
         "name": "Flawless Heart: Perplexed",
         "type": "Vorax Material",
-        "price": 15.3667,
-        "last_time": 1768774156,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381057": {
         "name": "Flawless Heart: Exuberant",
         "type": "Vorax Material",
-        "price": 799.375,
-        "last_time": 1768774158,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381058": {
         "name": "Flawless Heart: Unmoored",
         "type": "Vorax Material",
-        "price": 25.8667,
-        "last_time": 1768774160,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381059": {
         "name": "Flawless Heart: Anginal",
@@ -1559,65 +1553,47 @@
     "381061": {
         "name": "Flawless Heart: Extrasystolic",
         "type": "Vorax Material",
-        "price": 114.7586,
-        "last_time": 1768774168,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381062": {
         "name": "Flawless Heart: Soldified",
         "type": "Vorax Material",
-        "price": 56.9667,
-        "last_time": 1768774170,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381063": {
         "name": "Flawless Heart: Vaporized",
         "type": "Vorax Material",
-        "price": 19.1,
-        "last_time": 1768774180,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381064": {
         "name": "Flawless Heart: Liquefied",
         "type": "Vorax Material",
-        "price": 74.6,
-        "last_time": 1768774178,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381065": {
         "name": "Flawless Tongue: Glib",
         "type": "Vorax Material",
-        "price": 73.1,
-        "last_time": 1768774184,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381066": {
         "name": "Flawless Tongue: Supple",
         "type": "Vorax Material",
-        "price": 169.7857,
-        "last_time": 1768774187,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381067": {
         "name": "Flawless Tongue: Dexterous",
         "type": "Vorax Material",
-        "price": 58.2,
-        "last_time": 1768774189,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381068": {
         "name": "Flawless Tongue: Eloquent",
         "type": "Vorax Material",
-        "price": 324.7667,
-        "last_time": 1768774191,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381069": {
         "name": "Flawless Tongue: Ursine",
         "type": "Vorax Material",
-        "price": 19.7167,
-        "last_time": 1768774193,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381070": {
         "name": "Flawless Tongue: Feline",
@@ -1627,184 +1603,132 @@
     "381071": {
         "name": "Flawless Tongue: Vulpine",
         "type": "Vorax Material",
-        "price": 159.8571,
-        "last_time": 1768774197,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381072": {
         "name": "Flawless Tongue: Ardent",
         "type": "Vorax Material",
-        "price": 55.4,
-        "last_time": 1768774213,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381073": {
         "name": "Flawless Tongue: Inscribed",
         "type": "Vorax Material",
-        "price": 31.4,
-        "last_time": 1768774202,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381074": {
         "name": "Flawless Tongue: Apathetic",
         "type": "Vorax Material",
-        "price": 66.6,
-        "last_time": 1768774210,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381075": {
         "name": "Flawless Liver: Scorched",
         "type": "Vorax Material",
-        "price": 35.4583,
-        "last_time": 1768774257,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381076": {
         "name": "Flawless Liver: Combusted",
         "type": "Vorax Material",
-        "price": 62.6364,
-        "last_time": 1768774249,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381077": {
         "name": "Flawless Liver: Thunderclap",
         "type": "Vorax Material",
-        "price": 48.4,
-        "last_time": 1768774241,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381078": {
         "name": "Flawless Liver: Dazzling",
         "type": "Vorax Material",
-        "price": 37.7,
-        "last_time": 1768774252,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381079": {
         "name": "Flawless Liver: Iced",
         "type": "Vorax Material",
-        "price": 66.381,
-        "last_time": 1768774233,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381080": {
         "name": "Flawless Liver: Frosted",
         "type": "Vorax Material",
-        "price": 156.1379,
-        "last_time": 1768774231,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381026": {
         "name": "Flawless Spine: Elongated ",
         "type": "Vorax Material",
-        "price": 240.9474,
-        "last_time": 1768774261,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381027": {
         "name": "Flawless Spine: Hyperostosis",
         "type": "Vorax Material",
-        "price": 20.4,
-        "last_time": 1768774264,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381028": {
         "name": "Flawless Nerve: Compelling",
         "type": "Vorax Material",
-        "price": 991.6842,
-        "last_time": 1768774266,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381029": {
         "name": "Flawless Spine: Entwined",
         "type": "Vorax Material",
-        "price": 599.2941,
-        "last_time": 1768774269,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381030": {
         "name": "Flawless Nerve: Unsealed(Pre-fix)",
         "type": "Vorax Material",
-        "price": 954.625,
-        "last_time": 1768774271,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381031": {
         "name": "Flawless Ears: Resonant",
         "type": "Vorax Material",
-        "price": 43.5714,
-        "last_time": 1768774273,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381032": {
         "name": "Flawless Spine: Extended",
         "type": "Vorax Material",
-        "price": 154.3846,
-        "last_time": 1768774275,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381033": {
         "name": "Flawless Spine: Fractured",
         "type": "Vorax Material",
-        "price": 37.6667,
-        "last_time": 1768774278,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381034": {
         "name": "Flawless Ears: Echoing",
         "type": "Vorax Material",
-        "price": 41.1429,
-        "last_time": 1768774280,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381035": {
         "name": "Flawless Ears: Prolonged",
         "type": "Vorax Material",
-        "price": 42.6667,
-        "last_time": 1768774284,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381036": {
         "name": "Flawless Ears: Partitioned",
         "type": "Vorax Material",
-        "price": 270.4783,
-        "last_time": 1768774315,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381037": {
         "name": "Flawless Spine: Fragmented",
         "type": "Vorax Material",
-        "price": 33.25,
-        "last_time": 1768774313,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381038": {
         "name": "Flawless Ears: Clairaudient",
         "type": "Vorax Material",
-        "price": 25.4333,
-        "last_time": 1768774310,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381039": {
         "name": "Flawless Nerve: Excited",
         "type": "Vorax Material",
-        "price": 53.1,
-        "last_time": 1768774308,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381041": {
         "name": "Flawless Ears: Prostrate",
         "type": "Vorax Material",
-        "price": 20.0333,
-        "last_time": 1768774306,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381042": {
         "name": "Flawless Nerve: Conductive",
         "type": "Vorax Material",
-        "price": 979.0455,
-        "last_time": 1768774303,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381043": {
         "name": "Flawless Spine: Malleable",
@@ -1814,36 +1738,26 @@
     "381044": {
         "name": "Flawless Spine: Vermicular",
         "type": "Vorax Material",
-        "price": 45.0,
-        "last_time": 1768774296,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381045": {
         "name": "Flawless Nerve: Ruptured",
         "type": "Vorax Material",
-        "price": 2315.1538,
-        "last_time": 1768774300,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381081": {
         "name": "Flawless Nerve: Unsealed(Suffix)",
         "type": "Vorax Material",
-        "price": 353.5833,
-        "last_time": 1768774290,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381082": {
         "name": "Flawless Spine: Impalement",
         "type": "Vorax Material",
-        "price": 249.1667,
-        "last_time": 1768774286,
-        "from": "FurryHeiLi"
+        "price": 1.0
     },
     "381083": {
         "name": "Flawless Nerve: Dominant",
         "type": "Vorax Material",
-        "price": 274.0909,
-        "last_time": 1768774317,
-        "from": "FurryHeiLi"
+        "price": 1.0
     }
 }
