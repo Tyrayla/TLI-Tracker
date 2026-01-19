@@ -1085,6 +1085,8 @@ class App(Tk):
             # Update UI
             self.label_current_earn.config(text=f"🔥 0")
             self.label_map_count.config(text=f"🎫 0")
+            self.label_current_time.config(text="Current Map: 0m00s")
+            self.label_total_time.config(text="Total: 0m00s")
             # Clear the drops panel (Text widget) safely
             try:
                 self.inner_pannel_drop_listbox.config(state='normal')
