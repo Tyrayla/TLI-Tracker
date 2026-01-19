@@ -173,3 +173,6 @@ drop.txt
 drops.txt
 *log*
 *.bak
+*.xml
+/.idea
+/TLI-Tracker
